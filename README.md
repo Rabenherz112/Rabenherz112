@@ -13,7 +13,7 @@ When I'm not developing or designing things, you can find me watching most of th
 <h3 align="center">💼💻 What & Where I am currently working at/on/as</h3>
 <p align="center">
 <a href="https://serviceware-se.com/">Serviceware SE: IT Specialist and Administration 💼</a><br>
-<a href="https://www.roblox.com/groups/8319574">Roblox Stargate Program SGE: Technical Staff; Discord Bot Developer 🤖</a><br>
+<!-- <a href="https://www.roblox.com/groups/8319574">Roblox Stargate Program SGE: Technical Staff; Discord Bot Developer 🤖</a><br>-->
 <a href="https://www.roblox.com/groups/4550988">Roblox SCP Foundation: Technical Staff; Discord Bot Developer and Website Developer 🌐</a><br>
 </p>
 
