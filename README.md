@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I am Rabenherz, otherly know as Lp_Zombie</h2>
 <p align="center">I'm a Discord Bot Developer, Roblox Game Designer and an IT specialist in the field system integration.
-I'm currently pursuing my carrer in the system integration field and hoping soon to also get into the Cyper Security Field. If I am not on work, im am working on multiple smaller Discord Projects.
+I'm currently pursuing my carrer in the system integration field and hoping soon to also get into the Cyper Security Field. If I am not on work, im am working on my Ravenhub Community.
 I'm passionate about Node.js, Express, PHP, Generall Website Development, Sustainability, PC Hardware(my poor wallet), S.E.O, Web Performance and last World Domination.
 When I'm not developing or designing things, you can find me watching most of the times Animes, re-building my PC or Laptops or gaming either on steam or epic games. But most of my days are spent on work and listening to LoFi Music.</p>
 
@@ -15,6 +15,7 @@ When I'm not developing or designing things, you can find me watching most of th
 <a href="https://serviceware-se.com/">Serviceware SE: IT Specialist and Administration 💼</a><br>
 <!-- <a href="https://www.roblox.com/groups/8319574">Roblox Stargate Program SGE: Technical Staff; Discord Bot Developer 🤖</a><br>-->
 <a href="https://www.roblox.com/groups/4550988">Roblox SCP Foundation: Technical Staff; Discord Bot Developer and Website Developer 🌐</a><br>
+ <a href="https://builderman.theravenhub.com"> Builderman Discord Bot 🤖</a><br>
 </p>
 
 -----
