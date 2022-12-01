@@ -16,6 +16,7 @@ When I'm not developing or designing things, you can find me watching most of th
 <!-- <a href="https://www.roblox.com/groups/8319574">Roblox Stargate Program SGE: Technical Staff; Discord Bot Developer 🤖</a><br>-->
 <a href="https://www.roblox.com/groups/4550988">Roblox SCP Foundation: Technical Staff; Discord Bot Developer and Website Developer 🌐</a><br>
  <a href="https://builderman.theravenhub.com"> Builderman Discord Bot 🤖</a><br>
+  <a href="https://github.com/Rabenherz112/Gamey"> Gamey Discord Bot 🤖</a><br>
 </p>
 
 -----
