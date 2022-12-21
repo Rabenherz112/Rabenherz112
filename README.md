@@ -31,7 +31,7 @@ When I'm not developing or designing things, you can find me watching most of th
 <img alt="Windows OS" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6">
 <img alt="Code Editor" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=007ACC">
 <img alt="Code" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
-<img alt="Code" src="https://img.shields.io/badge/Code-PowerShell?style=flat&logo=powershell&logoColor=white&color=F7DF1E">
+<img alt="Code" src="https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=F7DF1E">
 <img alt="Code" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=F7DF1E">
 <img alt="Shell" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2F2625">
 <img alt="Shell" src="https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2F2625">
