@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! I am Rabenherz, otherly know as Lp_Zombie</h2>
 <p align="center">I'm a Discord Bot Developer, Roblox Game Designer and an IT specialist in the field system integration.
 I'm currently pursuing my carrer in the system integration field and hoping soon to also get into the Cyper Security Field. If I am not on work, im am working on my Ravenhub Community.
-I'm passionate about Node.js, Express, PHP, Generall Website Development, Sustainability, PC Hardware(my poor wallet), S.E.O, Web Performance and last World Domination.
+I'm passionate about Node.js, Express, PowerShell, Generall Website Development, Sustainability, PC Hardware(my poor wallet), S.E.O, Web Performance and last World Domination.
 When I'm not developing or designing things, you can find me watching most of the times Animes, re-building my PC or Laptops or gaming either on steam or epic games. But most of my days are spent on work and listening to LoFi Music.</p>
 
 <hr>
@@ -14,9 +14,9 @@ When I'm not developing or designing things, you can find me watching most of th
 <p align="center">
 <a href="https://serviceware-se.com/">Serviceware SE: IT Security and Administration 💼</a><br>
 <!-- <a href="https://www.roblox.com/groups/8319574">Roblox Stargate Program SGE: Technical Staff; Discord Bot Developer 🤖</a><br>-->
-<a href="https://www.roblox.com/groups/4550988">Roblox SCP Foundation: Technical Staff; Discord Bot Developer and Website Developer 🌐</a><br>
- <a href="https://builderman.theravenhub.com"> Builderman Discord Bot 🤖</a><br>
-  <a href="https://github.com/Rabenherz112/Gamey"> Gamey Discord Bot 🤖</a><br>
+<!--<a href="https://www.roblox.com/groups/4550988">Roblox SCP Foundation: Technical Staff; Discord Bot Developer and Website Developer 🌐</a><br>-->
+<a href="https://builderman.theravenhub.com"> Builderman Discord Bot 🤖</a><br>
+<a href="https://github.com/Rabenherz112/Gamey"> Gamey Discord Bot 🤖</a><br>
 </p>
 
 -----
@@ -31,6 +31,7 @@ When I'm not developing or designing things, you can find me watching most of th
 <img alt="Windows OS" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6">
 <img alt="Code Editor" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=007ACC">
 <img alt="Code" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
+<img alt="Code" src="https://img.shields.io/badge/Code-PowerShell?style=flat&logo=powershell&logoColor=white&color=F7DF1E">
 <img alt="Code" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=F7DF1E">
 <img alt="Shell" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2F2625">
 <img alt="Shell" src="https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2F2625">
