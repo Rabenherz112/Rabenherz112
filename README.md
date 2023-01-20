@@ -43,7 +43,7 @@ When I'm not developing or designing things, you can find me watching most of th
 
 <h3 align="center">📊 My Github Stats</h3>
   <div class="images-container" align="center">
-<img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&show_icons=true&hide_border=true">
-<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&langs_count=3">
+<img alt="Profile Stats" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&show_icons=true&hide_border=true">
+<img alt="Language Stats" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&langs_count=3">
 <!--<img alt="Rep Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rabenherz112&repo=Roblox-Stats-to-Discord&theme=github_dark&hide_border=true">-->
 </div>
