@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "SCHEDULED: Latest GitHub Activities"
-          MAX_LINES: 3
+          MAX_LINES: 5
