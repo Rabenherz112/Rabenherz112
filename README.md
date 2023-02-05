@@ -40,8 +40,8 @@ When I'm not developing or designing things, you can find me watching most of th
 
 <h3 align="center">🔍 My latest Activities</h3>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/Rabenherz112/Gamey/pull/27) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)
-2. 🗣 Commented on [#26](https://github.com/Rabenherz112/Gamey/issues/26) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)
+1. 🗣 Commented on [#29](https://github.com/Rabenherz112/Gamey/issues/29) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)
+2. ❌ Closed PR [#29](https://github.com/Rabenherz112/Gamey/pull/29) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)
 <!--END_SECTION:activity-->
 
 ---
