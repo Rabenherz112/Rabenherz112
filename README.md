@@ -38,18 +38,9 @@ When I'm not developing or designing things, you can find me watching most of th
 
 ---
 
-<h3 align="center">🔍 My latest Activities</h3>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/benphelps/homepage/issues/371) in [benphelps/homepage](https://github.com/benphelps/homepage)
-2. ❗️ Opened issue [#34](https://github.com/Rabenherz112/Gamey/issues/34) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)
-<!--END_SECTION:activity-->
-
----
-
 <h3 align="center">📊 My Github Stats</h3>
 <div class="images-container" align="center">
-<img alt="" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General Statistics">
-
-<img alt="" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&layout=compact&cache_seconds=14400&langs_count=3">
-<img alt="" src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact">
+<img alt="Profile Stats" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General%20Statistics">
+<img alt="Language Stats" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&langs_count=3&cache_seconds=14400">
+<img alt="Code Activity" src="https://vercel.theravenhub.com/api/wakatime?username=@Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact&custom_title=Coding%20Time">
 </div>
