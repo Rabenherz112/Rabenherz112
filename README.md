@@ -42,5 +42,5 @@ When I'm not developing or designing things, you can find me watching most of th
 <div class="images-container" align="center">
 <img alt="Profile Stats" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General%20Statistics">
 <img alt="Language Stats" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&langs_count=3&cache_seconds=14400">
-<img alt="Code Activity" src="https://vercel.theravenhub.com/api/wakatime?username=@Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact&custom_title=Coding%20Time">
+<img alt="Code Activity" src="https://vercel.theravenhub.com/api/wakatime?username=@Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact&range=all_time&custom_title=Coding%20Time">
 </div>
