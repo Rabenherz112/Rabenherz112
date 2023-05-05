@@ -38,19 +38,9 @@ When I'm not developing or designing things, you can find me watching most of th
 
 ---
 
-<details>
-<summary><h3 align="center">🔍 My latest Activities</h3></summary>
-<!--START_SECTION:activity-->
-</details>
-<details>
-<summary><h3 align="center">📊 My Github Stats</h3></summary>
+<h3 align="center">📊 My Github Stats</h3>
 <div class="images-container" align="center">
-<img alt="Profile Stats Dark" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General Statistics#gh-dark-mode-only">
-<img alt="Profile Stats Light" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_light&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General Statistics#gh-light-mode-only">
-
-<img alt="Language Stats Dark" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&layout=compact&cache_seconds=14400&langs_count=3#gh-dark-mode-only">
-<img alt="Language Stats Light" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_light&hide_border=true&count_private=true&layout=compact&cache_seconds=14400&langs_count=3#gh-light-mode-only">
-<img alt="WakaTime Stats Dark" src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact#gh-dark-mode-only">
-<img alt="WakaTime Stats Light" src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&theme=github_light&hide_border=true&cache_seconds=14400&layout=compact#gh-light-mode-only">
+<img alt="Profile Stats" src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=General%20Statistics">
+<img alt="Language Stats" src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&theme=github_dark&hide_border=true&count_private=true&langs_count=3&cache_seconds=14400">
+<img alt="Code Activity" src="https://vercel.theravenhub.com/api/wakatime?username=@Rabenherz112&theme=github_dark&hide_border=true&cache_seconds=14400&layout=compact&custom_title=Coding%20Time">
 </div>
-</details>
