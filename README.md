@@ -45,7 +45,7 @@
 
 <section style="display: flex; align-items: center; margin-top: 50px;">
   <div style="width: 30%; text-align: left;">
-    <img src="./assets/windows-logo.svg" alt="Windows 11 Logo" style="max-width: 100%;">
+    <img src="./assets/windows-logo.svg" width="150" height="150" alt="Windows 11 Logo">
   </div>
   <div style="width: 70%; padding-left: 20px;">
     <h1>Windows 11</h1>
@@ -93,4 +93,10 @@
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
         <br>
+        <p> <img src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats"/>
+        </p>
+        <p> <img src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages"/>
+        </p>
+        <p> <img src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/>
+    </details>
 </div>
