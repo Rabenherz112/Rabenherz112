@@ -57,27 +57,27 @@
 <div style="display: flex; padding-top: 30px">
   <div style="flex: 1;">
     <p><b>Languages</b></h2>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"><br>
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE">
   </div>
   
   <div style="flex: 1;">
     <p><b>Shells</b></p>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
-    <img alt="Command Prompt" src="https://img.shields.io/badge/Command%20Prompt-informational?style=flat&logo=windows-terminal&logoColor=white&color=4D4D4D">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25"><br>
+    <img alt="Command Prompt" src="https://img.shields.io/badge/Command%20Prompt-informational?style=flat&logo=windows-terminal&logoColor=white&color=4D4D4D"><br>
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE">
   </div>
   
   <div style="flex: 1;">
     <p><b>Databases</b></p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1"><br>
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57"><br>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248">
   </div>
   
   <div style="flex: 1;">
     <p><b>Cloud Providers</b></p>
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4"><br>
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF">
   </div>
   
