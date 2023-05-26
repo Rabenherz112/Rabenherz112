@@ -89,14 +89,13 @@
   </div>
 </div>
 <hr>
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-        <br>
-        <p> <img src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats"/>
-        </p>
-        <p> <img src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages"/>
-        </p>
-        <p> <img src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/>
-    </details>
-</div>
+<h2 align="center">Latest Activities</h2>
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<hr>
+<h2 align="center">GitHub Statistics</h2>
+
+<p> <img src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats" width="400"/>
+<img src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages" width="303"/></p>
+<p align="center"> <img src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/></p>
