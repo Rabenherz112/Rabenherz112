@@ -87,15 +87,15 @@
 <hr>
 <h2 align="center">Latest Activities</h2>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Rabenherz112/Rabenherz112](https://github.com/Rabenherz112/Rabenherz112)<br>
-2. ⬆️ Pushed 1 commit(s) to [Rabenherz112/Rabenherz112](https://github.com/Rabenherz112/Rabenherz112)<br>
-3. ⬆️ Pushed 1 commit(s) to [Rabenherz112/Rabenherz112](https://github.com/Rabenherz112/Rabenherz112)<br>
-4. ⬆️ Pushed 1 commit(s) to [Rabenherz112/Rabenherz112](https://github.com/Rabenherz112/Rabenherz112)<br>
-5. ⬆️ Pushed 1 commit(s) to [Rabenherz112/Rabenherz112](https://github.com/Rabenherz112/Rabenherz112)<br>
+(1) 👍 Approved [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1446458359) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(2) 🔎 Requested changes in [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1445948909) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(3) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(4) 🔎 Requested changes in [#3823](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3823#pullrequestreview-1445140060) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(5) 👍 Approved [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1445111789) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 27th, 2023, 1:07:03 PM
+Last Updated: Saturday, May 27th, 2023, 3:09:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
