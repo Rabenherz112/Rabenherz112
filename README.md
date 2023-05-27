@@ -86,6 +86,7 @@
 </table>
 <hr>
 <h2 align="center">Latest Activities</h2>
+
 <!--RECENT_ACTIVITY:start-->
 (1) 👍 Approved [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1446458359) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 (2) 🔎 Requested changes in [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1445948909) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
