@@ -23,7 +23,7 @@
 
 <table style="width: 100%; border: 0px; table-layout:fixed;">
 <tr>
-<td style="border: 0px; padding: 0; width: 25%; justify-content: center;"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 100%"></td>
+<td border="0px" width="25%" style="padding: 0; justify-content: center;"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 100%"></td>
 <td style="border: 0px; padding: 0; width: 75%;"><h2>Open Source is a great tool</h2>
     <p>Open-source software is something I am passionate about. While I may not be a heavy maintainer or contributor, and scripting are not my strong suit, I do what I can to contribute to the community. Whether it's fixing minor issues that might have been overlooked, making general improvements, helping with reviewing Pull Requests or enhancing documentation. I believe that every little bit helps when it comes to open-source projects.</p></td>
 </tr>
