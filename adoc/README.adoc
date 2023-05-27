@@ -1,6 +1,75 @@
-a
+image::assets/placeholder-banner.png[]
 
-image::placeholder-banner.png[]
+[.text-center]
+= Hey there! Welcome to my profile image:assets/waving.gif[Waving,50,50]
 
-Hey there! Welcome to my profile image:waving.gif[]
+[#img-mail,link=mailto:rabenherz@theravenhub.com]
+[#img-discord,link=https://discord.gg/ySk5eYrrjG]
+[.text-center]
+image:https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335[Mail] ‎ ‎ ‎ image:https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da[Discord]
 
+
+[.text-center]
+My name is Rabenherz, also known by some as Lp_Zombie. +
+I'm an IT specialist working at Serviceware SE, where I handle the security of the IT systems to ensure smooth operations.
+[.text-center]
+Apart from my work, I am passionate about self-hosting, which is why I have set up multiple V-Servers, Raspberry PIs, and Synology NAS to offer various web services and Discord bots. I love tinkering with new technology and experimenting with different coding languages. JavaScript and PowerShell are my favorites, and I always challenge myself with different programming projects to improve my skills. +
+Another hobby of mine is reading manga, and I have an extensive manga collection that I am proud of. I enjoy hosting and sharing my collection with others who have a similar interest. In my free time, I like to unwind by playing Rouge-Likes or catching up on the latest anime.
+[.text-center]
+Overall, I am a driven individual who enjoys technology and the creative possibilities it offers. I always strive to learn new things and apply them to both my personal and professional life.
+
+[.text-center]
+image::https://utility.theravenhub.com/scripts/github-pf-counter/["Profile Views"]
+
+'''
+
+[frame=none,grid=none,cols="25,75"]
+|===
+^.>|image:https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1["Commits",200,200] a|== Open Source is a great tool +
+Open-source software is something I am passionate about. While I may not be a heavy maintainer or contributor, and scripting are not my strong suit, I do what I can to contribute to the community. Whether it's fixing minor issues that might have been overlooked, making general improvements, helping with reviewing Pull Requests or enhancing documentation. I believe that every little bit helps when it comes to open-source projects.
+
+| a|===== ‎
+|===
+
+'''
+
+[.text-center]
+== Technologies & Tools
+
+[frame=none,grid=none,cols="75,25"]
+|===
+a|==== Debian +
+Debian is a free and open-source operating system based on the Linux kernel. It is one of the most popular Linux distributions and is known for its stability, security, and community-driven development.
+
+I use Debian for the most of my personal Infrastructure, since it's secure, doesn't need alot of ressources and is easy to manage. ^.^|image:assets/debian-logo.svg["Commits",120,120] 
+|===
+
+[frame=none,grid=none,cols="25,75"]
+|===
+^.^|image:assets/windows-logo.svg["Commits",120,120] a|==== Windows 11 +
+Windows 11 is a personal computer operating system developed by Microsoft. It is the successor to Windows 10 and includes a refreshed design, new features, and improved performance.
+
+I use Windows on various personal and work devices and is my preferred operating system for productivity tasks and gaming.
+
+| a|‎
+|===
+
+[frame=none,grid=none]
+|===
+h|Languages h|Shells h|Databases h|Cloud Providers h|Code Management
+
+|image:https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E[] |image:https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25[] |image:https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1[] |image:https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4[] |image:https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032[]
+
+|image:https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE[] |image:https://img.shields.io/badge/Command%20Prompt-informational?style=flat&logo=windows-terminal&logoColor=white&color=4D4D4D[] |image:https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57[] |image:https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF[] |image:https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717[]
+
+| |image:https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE[] |image:https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248[] | |image:https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FC6D26[]
+|===
+
+
+'''
+
+=== GitHub Statistics
+
+image:https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics["GitHub Stats",400,400] ‎ ‎ ‎ image:https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60["GitHub Top Languages",303,303]
+
+image::https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60["Coding Time"]
