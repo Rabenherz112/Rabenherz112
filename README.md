@@ -21,7 +21,7 @@
 </p>
 <hr>
 
-<table style="border: 0px; table-layout:fixed;">
+<table style="width: 100%; border: 0px; table-layout:fixed;">
 <tr>
 <td style="width: 25%; justify-content: center;"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 100%"></td>
 <td style="width: 75%;"><h2>Open Source is a great tool</h2>
