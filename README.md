@@ -21,6 +21,13 @@
 </p>
 <hr>
 
+<table>
+<tr>
+<td style="width: 25%; justify-content: center;"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 25%"></td>
+<td style="width: 75%;"><h2>Open Source is a great tool</h2>
+    <p>Open-source software is something I am passionate about. While I may not be a heavy maintainer or contributor, and scripting are not my strong suit, I do what I can to contribute to the community. Whether it's fixing minor issues that might have been overlooked, making general improvements, helping with reviewing Pull Requests or enhancing documentation. I believe that every little bit helps when it comes to open-source projects.</p></td>
+</tr>
+</table>
 <div style="display: flex;">
   <div style="width: 25%;" style="justify-content: center">
     <img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 25%">
