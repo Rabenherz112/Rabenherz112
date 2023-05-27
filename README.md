@@ -1,4 +1,4 @@
-<img src="./assets/placeholder-banner.png" alt="Waving Hand">
+<img src="./assets/HeaderTransparent.png" alt="Waving Hand">
 <br>
 <h1 align="center">Hey there! Welcome to my profile <img src="./assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
 
