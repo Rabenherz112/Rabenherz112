@@ -23,7 +23,7 @@
 
 <div style="display: flex;">
   <div style="width: 25%;" style="justify-content: center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 90%">
+    <img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 25%">
   </div>
   <div style="width: 75%;">
     <h2>Open Source is a great tool</h2>
