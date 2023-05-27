@@ -13,7 +13,7 @@ settings:
   commit_email: "rabenherz@theravenhub.com"
   line_prefix: "({NUM}) "
   ignored_repos:
-    - Rabenherz112/Rabenherz
+    - Rabenherz112/Rabenherz112
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
