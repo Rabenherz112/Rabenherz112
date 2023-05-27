@@ -37,7 +37,7 @@
     <p>Open-source software is something I am passionate about. While I may not be a heavy maintainer or contributor, and scripting are not my strong suit, I do what I can to contribute to the community. Whether it's fixing minor issues that might have been overlooked, making general improvements, helping with reviewing Pull Requests or enhancing documentation. I believe that every little bit helps when it comes to open-source projects.</p>
   </div>
 </div>
-<img src="./assets/open-source.svg" width="100%" />
+<img src="./assets/test.svg" width="100%" />
 <hr>
 <h2 align="center"> Technologies & Tools </h2>
 <section style="display: flex; align-items: center;">
