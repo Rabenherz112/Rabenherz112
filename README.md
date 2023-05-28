@@ -88,25 +88,25 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(2) ⬆️ Pushed 6 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(3) 💬 Commented on [#3482](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3482#issuecomment-1566180588) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(4) 💬 Commented on [#3469](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3469#issuecomment-1566179057) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(5) 👍 Approved [#2801](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2801#pullrequestreview-1448209764) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(6) 👍 Approved [#55](https://github.com/Rabenherz112/Gamey/pull/55#pullrequestreview-1447433297) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(7) 👍 Approved [#58](https://github.com/Rabenherz112/Gamey/pull/58#pullrequestreview-1447432412) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(8) 👍 Approved [#57](https://github.com/Rabenherz112/Gamey/pull/57#pullrequestreview-1447431761) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(9) 💬 Commented on [#2437](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2437#issuecomment-1565478409) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(10) 💬 Commented on [#1908](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/1908#issuecomment-1565466780) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(11) 👍 Approved [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1446458359) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(12) 💬 Commented on [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#discussion_r1206584297) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(13) 💬 Commented on [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#discussion_r1206584499) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(14) 🔎 Requested changes in [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1445948909) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(15) 💬 Commented on [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#issuecomment-1564193155) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(1) 💪 Opened PR [#3852](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3852) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(2) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(3) 💪 Opened PR [#3851](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3851) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(4) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(5) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(6) ⬆️ Pushed 6 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(7) 💬 Commented on [#3482](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3482#issuecomment-1566180588) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(8) 💬 Commented on [#3469](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3469#issuecomment-1566179057) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(9) 👍 Approved [#2801](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2801#pullrequestreview-1448209764) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(10) 👍 Approved [#55](https://github.com/Rabenherz112/Gamey/pull/55#pullrequestreview-1447433297) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(11) 👍 Approved [#58](https://github.com/Rabenherz112/Gamey/pull/58#pullrequestreview-1447432412) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(12) 👍 Approved [#57](https://github.com/Rabenherz112/Gamey/pull/57#pullrequestreview-1447431761) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(13) 💬 Commented on [#2437](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2437#issuecomment-1565478409) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(14) 💬 Commented on [#1908](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/1908#issuecomment-1565466780) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(15) 👍 Approved [#3762](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3762#pullrequestreview-1446458359) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 28th, 2023, 6:03:10 PM
+Last Updated: Sunday, May 28th, 2023, 8:03:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
