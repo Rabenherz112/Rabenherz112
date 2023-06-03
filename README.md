@@ -88,25 +88,25 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💬 Commented on [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492#issuecomment-1572549236) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(2) 💪 Opened PR [#495](https://github.com/awesome-foss/awesome-sysadmin/pull/495) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(3) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
-(4) 💬 Commented on [#382](https://github.com/awesome-foss/awesome-sysadmin/issues/382#issuecomment-1570799871) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(5) 💬 Commented on [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492#issuecomment-1570798850) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(6) ❌ Closed PR [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(7) 💪 Opened PR [#494](https://github.com/awesome-foss/awesome-sysadmin/pull/494) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(8) 💪 Opened PR [#493](https://github.com/awesome-foss/awesome-sysadmin/pull/493) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(9) 💪 Opened PR [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(10) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
+(1) 💬 Commented on [#2410](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2410#issuecomment-1574742691) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(2) 💬 Commented on [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492#issuecomment-1572549236) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(3) 💪 Opened PR [#495](https://github.com/awesome-foss/awesome-sysadmin/pull/495) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(4) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
+(5) 💬 Commented on [#382](https://github.com/awesome-foss/awesome-sysadmin/issues/382#issuecomment-1570799871) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(6) 💬 Commented on [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492#issuecomment-1570798850) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(7) ❌ Closed PR [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(8) 💪 Opened PR [#494](https://github.com/awesome-foss/awesome-sysadmin/pull/494) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(9) 💪 Opened PR [#493](https://github.com/awesome-foss/awesome-sysadmin/pull/493) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(10) 💪 Opened PR [#492](https://github.com/awesome-foss/awesome-sysadmin/pull/492) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
 (11) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
 (12) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
 (13) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
-(14) ⬆️ Pushed 4 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
+(14) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
 (15) ⬆️ Pushed 4 commit(s) to [Rabenherz112/awesome-sysadmin](https://github.com/Rabenherz112/awesome-sysadmin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 3rd, 2023, 8:03:30 AM
+Last Updated: Saturday, June 3rd, 2023, 10:03:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
