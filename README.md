@@ -43,7 +43,7 @@
 <tr>
 <td border="0px" width="25%"><img src="./assets/windows-logo.svg" alt="Windows" style="width: 125px"></td>
 <td border="0px" width="75%"><h2>Windows 11</h2>
-    <p>Windows 11 is a personal computer operating system developed by Microsoft. It is the successor to Windows 10 and includes a refreshed design, new features, and improved performance.<br><br>I use Windows on various personal and work devices and is my preferred operating system for productivity tasks and gaming.</p></td>
+    <p>Windows is a widely used operating system developed by Microsoft. It offers a comprehensive and user-friendly platform for personal computing.<br><br>I use Windows on various personal and work devices and is my preferred operating system for productivity tasks and gaming.</p></td>
 </tr>
 </table>
 <table style="border: 0px;">
