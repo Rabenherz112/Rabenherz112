@@ -88,25 +88,25 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💬 Commented on [#3750](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3750#issuecomment-1579002598) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(2) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578999051) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(3) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578721571) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(4) 💬 Commented on [#3750](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3750#issuecomment-1578287370) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(5) 👍 Approved [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#pullrequestreview-1464708575) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(6) ⭐ Starred [Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)<br>
-(7) 💪 Opened PR [#3875](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3875) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(8) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(9) 💪 Opened PR [#3874](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3874) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(10) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(11) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(12) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(13) 👍 Approved [#3729](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3729#pullrequestreview-1462314010) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(14) 💬 Commented on [#3326](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3326#issuecomment-1576393211) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(15) 💬 Commented on [#3442](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3442#issuecomment-1576393120) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(1) 💬 Commented on [#3834](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3834#discussion_r1221169815) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(2) 🔎 Requested changes in [#3834](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3834#pullrequestreview-1467019532) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(3) 💬 Commented on [#3731](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3731#discussion_r1221137087) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(4) 🔎 Requested changes in [#3731](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3731#pullrequestreview-1466976126) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(5) 💬 Commented on [#3750](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3750#issuecomment-1579002598) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(6) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578999051) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(7) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578721571) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(8) 💬 Commented on [#3750](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3750#issuecomment-1578287370) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(9) 👍 Approved [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#pullrequestreview-1464708575) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(10) ⭐ Starred [Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)<br>
+(11) 💪 Opened PR [#3875](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3875) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(12) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(13) 💪 Opened PR [#3874](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3874) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(14) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(15) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 10:04:40 AM
+Last Updated: Wednesday, June 7th, 2023, 2:05:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
