@@ -88,25 +88,25 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1582835358) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(2) ❗️ Opened issue [#3880](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3880) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(3) 👍 Approved [#3849](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3849#pullrequestreview-1469120562) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(4) ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
-(5) ⭐ Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)<br>
-(6) 💬 Commented on [#3849](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3849#discussion_r1221773138) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(7) 🔎 Requested changes in [#3849](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3849#pullrequestreview-1467955190) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(8) 👍 Approved [#3834](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3834#pullrequestreview-1467929119) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(9) 💬 Commented on [#3834](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3834#discussion_r1221169815) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(10) 🔎 Requested changes in [#3834](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3834#pullrequestreview-1467019532) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(11) 💬 Commented on [#3731](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3731#discussion_r1221137087) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(12) 🔎 Requested changes in [#3731](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3731#pullrequestreview-1466976126) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(13) 💬 Commented on [#3750](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3750#issuecomment-1579002598) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(14) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578999051) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(15) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1578721571) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(1) 💬 Commented on [#3881](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3881#issuecomment-1584325355) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(2) 💪 Opened PR [#3882](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3882) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(3) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(4) ⬆️ Pushed 3 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(5) ⬆️ Pushed 3 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(6) 💬 Commented on [#2360](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2360#issuecomment-1584282985) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(7) 💬 Commented on [#2875](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2875#issuecomment-1584274054) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(8) 💬 Commented on [#2963](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2963#issuecomment-1584256978) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(9) 💬 Commented on [#3857](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3857#discussion_r1224046305) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(10) 🔎 Requested changes in [#3857](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3857#pullrequestreview-1471550050) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(11) 👍 Approved [#3847](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3847#pullrequestreview-1471539838) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(12) 💬 Commented on [#3822](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3822#issuecomment-1582835358) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(13) ❗️ Opened issue [#3880](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3880) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(14) 👍 Approved [#3849](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3849#pullrequestreview-1469120562) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(15) ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 9th, 2023, 10:04:24 AM
+Last Updated: Friday, June 9th, 2023, 2:05:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
