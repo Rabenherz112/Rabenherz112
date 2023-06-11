@@ -88,25 +88,25 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💬 Commented on [#3887](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3887#issuecomment-1585701174) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(2) 💬 Commented on [#3887](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3887#issuecomment-1585698405) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(3) 💪 Opened PR [#3885](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3885) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(4) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(1) ⭐ Starred [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)<br>
+(2) 💬 Commented on [#3887](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3887#issuecomment-1585701174) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(3) 💬 Commented on [#3887](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3887#issuecomment-1585698405) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(4) 💪 Opened PR [#3885](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3885) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 (5) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(6) 💪 Opened PR [#3884](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3884) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(7) ❗️ Opened issue [#27](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/27) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(6) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(7) 💪 Opened PR [#3884](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3884) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(8) ❗️ Opened issue [#27](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/27) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (9) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
 (10) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
 (11) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
 (12) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(13) 💬 Commented on [#3881](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3881#issuecomment-1584325355) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(14) 💪 Opened PR [#3882](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3882) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(15) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(13) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(14) 💬 Commented on [#3881](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3881#issuecomment-1584325355) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(15) 💪 Opened PR [#3882](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3882) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 10th, 2023, 10:04:31 PM
+Last Updated: Sunday, June 11th, 2023, 2:18:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
