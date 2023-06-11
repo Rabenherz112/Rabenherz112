@@ -1,7 +1,7 @@
 settings:
   username: "Rabenherz112" # Replace with your username or comment out this line
   commit_msg: "[SCHEDULED] - Updated Activity"
-  max_lines: 15
+  max_lines: 12
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+02:00"
@@ -12,6 +12,12 @@ settings:
   line_prefix: "({NUM}) "
   ignored_repos:
     - Rabenherz112/Rabenherz112
+  disabled_events:
+  - comments
+  - create_repo
+  - fork
+  - star
+  - wiki
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
