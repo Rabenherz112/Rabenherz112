@@ -88,22 +88,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ⬆️ Pushed 1 commit(s) to [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(2) 💪 Opened PR [#3909](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3909) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(3) 💪 Opened PR [#3908](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3908) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(4) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(5) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(6) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(7) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(8) 💪 Opened PR [#3905](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3905) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(9) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(10) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(11) ⬆️ Pushed 7 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
-(12) 👍 Approved [#3902](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3902#pullrequestreview-1482686270) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(1) 👍 Approved [#61](https://github.com/Rabenherz112/Gamey/pull/61#pullrequestreview-1486091693) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(2) 👍 Approved [#62](https://github.com/Rabenherz112/Gamey/pull/62#pullrequestreview-1486090627) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(3) 👍 Approved [#63](https://github.com/Rabenherz112/Gamey/pull/63#pullrequestreview-1486089869) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(4) ⬆️ Pushed 1 commit(s) to [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(5) 💪 Opened PR [#3909](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3909) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(6) 💪 Opened PR [#3908](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3908) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(7) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(8) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(9) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(10) ⬆️ Pushed 2 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(11) 💪 Opened PR [#3905](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3905) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(12) ⬆️ Pushed 1 commit(s) to [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 19th, 2023, 2:07:23 PM
+Last Updated: Tuesday, June 20th, 2023, 2:19:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
