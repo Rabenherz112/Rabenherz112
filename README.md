@@ -6,6 +6,8 @@
     <a href="mailto:rabenherz@theravenhub.com" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"></a>
     ‎ ‎ ‎
     <a href="https://discord.gg/ySk5eYrrjG" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da"></a>
+    ‎ ‎ ‎
+    <a href="https://lemmy.world/u/Rabenherz112" target="_blank"><img alt="Lemmy World" src="https://img.shields.io/badge/Lemmy-informational?style=for-the-badge&logo=lemmy&logoColor=white&color=8b8b8b"></a>
 </p>
 <p align="center">
     My name is Rabenherz, also known by some as Lp_Zombie.<br>I'm an IT specialist working at Serviceware SE, where I handle the security of the IT systems to ensure smooth operations.
