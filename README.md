@@ -90,22 +90,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ✔️ Closed issue [#1](https://github.com/Rabenherz112/ComicScaler/issues/1) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
-(2) 🔎 Requested changes in [#4079](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4079#pullrequestreview-1564092499) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(3) ❗️ Opened issue [#1](https://github.com/Rabenherz112/ComicScaler/issues/1) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
-(4) ❗️ Opened issue [#1178](https://github.com/gotson/komga/issues/1178) in [gotson/komga](https://github.com/gotson/komga)<br>
-(5) ❗️ Opened issue [#1177](https://github.com/gotson/komga/issues/1177) in [gotson/komga](https://github.com/gotson/komga)<br>
-(6) ❌ Closed PR [#4055](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4055) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(7) 💪 Opened PR [#36](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/36) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ❌ Closed PR [#3557](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3557) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(9) 💪 Opened PR [#4047](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4047) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(10) 💪 Opened PR [#4046](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4046) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(11) 💪 Opened PR [#4045](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4045) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(12) ❌ Closed PR [#4](https://github.com/Rabenherz112/awesome-selfhosted/pull/4) in [Rabenherz112/awesome-selfhosted](https://github.com/Rabenherz112/awesome-selfhosted)<br>
+(1) ❗️ Opened issue [#3](https://github.com/Rabenherz112/ComicScaler/issues/3) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
+(2) ❗️ Opened issue [#2](https://github.com/Rabenherz112/ComicScaler/issues/2) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
+(3) ✔️ Closed issue [#1](https://github.com/Rabenherz112/ComicScaler/issues/1) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
+(4) 🔎 Requested changes in [#4079](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4079#pullrequestreview-1564092499) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(5) ❗️ Opened issue [#1](https://github.com/Rabenherz112/ComicScaler/issues/1) in [Rabenherz112/ComicScaler](https://github.com/Rabenherz112/ComicScaler)<br>
+(6) ❗️ Opened issue [#1178](https://github.com/gotson/komga/issues/1178) in [gotson/komga](https://github.com/gotson/komga)<br>
+(7) ❗️ Opened issue [#1177](https://github.com/gotson/komga/issues/1177) in [gotson/komga](https://github.com/gotson/komga)<br>
+(8) ❌ Closed PR [#4055](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4055) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(9) 💪 Opened PR [#36](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/36) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ❌ Closed PR [#3557](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3557) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(11) 💪 Opened PR [#4047](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4047) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+(12) 💪 Opened PR [#4046](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4046) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 7th, 2023, 2:06:39 PM
+Last Updated: Tuesday, August 8th, 2023, 2:20:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
