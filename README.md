@@ -90,22 +90,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 👍 Approved [#117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/117#pullrequestreview-1619237527) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 💪 Opened PR [#160](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/160) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (2) 👍 Approved [#117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/117#pullrequestreview-1619237527) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 💪 Opened PR [#151](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/151) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) ❌ Closed PR [#150](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/150) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 💪 Opened PR [#533](https://github.com/awesome-foss/awesome-sysadmin/pull/533) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(6) 💪 Opened PR [#532](https://github.com/awesome-foss/awesome-sysadmin/pull/532) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(7) 💪 Opened PR [#150](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/150) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 💪 Opened PR [#531](https://github.com/awesome-foss/awesome-sysadmin/pull/531) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(9) 💪 Opened PR [#530](https://github.com/awesome-foss/awesome-sysadmin/pull/530) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(10) 💪 Opened PR [#529](https://github.com/awesome-foss/awesome-sysadmin/pull/529) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(11) 💪 Opened PR [#526](https://github.com/awesome-foss/awesome-sysadmin/pull/526) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(12) 💪 Opened PR [#524](https://github.com/awesome-foss/awesome-sysadmin/pull/524) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(3) 👍 Approved [#117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/117#pullrequestreview-1619237527) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 💪 Opened PR [#151](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/151) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❌ Closed PR [#150](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/150) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 💪 Opened PR [#533](https://github.com/awesome-foss/awesome-sysadmin/pull/533) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(7) 💪 Opened PR [#532](https://github.com/awesome-foss/awesome-sysadmin/pull/532) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(8) 💪 Opened PR [#150](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/150) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 💪 Opened PR [#531](https://github.com/awesome-foss/awesome-sysadmin/pull/531) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(10) 💪 Opened PR [#530](https://github.com/awesome-foss/awesome-sysadmin/pull/530) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(11) 💪 Opened PR [#529](https://github.com/awesome-foss/awesome-sysadmin/pull/529) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(12) 💪 Opened PR [#526](https://github.com/awesome-foss/awesome-sysadmin/pull/526) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 12th, 2023, 2:17:04 AM
+Last Updated: Tuesday, September 12th, 2023, 2:06:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
