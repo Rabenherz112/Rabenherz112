@@ -1,3 +1,6 @@
+<!-- Matomo Image Tracker-->
+<img referrerpolicy="no-referrer-when-downgrade" src="https://utility.theravenhub.com/matomo/matomo.php?idsite=8&amp;rec=1" style="border:0" alt="" />
+<!-- End Matomo -->
 <img src="./assets/HeaderTransparent.png" alt="Waving Hand">
 <br>
 <h1 align="center">Hey there! Welcome to my profile <img src="./assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
