@@ -1,2 +1,14 @@
+github.com/Significant-Gravitas/AutoGPT v0.4.6-0.20230925171807-075529ddc9cb h1:J9pjytnYGXPJse9IBeTyntsSA2UUlHyaOeXCGWSaTO8=
+github.com/Significant-Gravitas/AutoGPT v0.4.6-0.20230925171807-075529ddc9cb/go.mod h1:RscFAHF5Q6iMm7TKztBlLs6FVrcdKuh6KnjuskmuPc4=
+github.com/containrrr/shoutrrr v0.8.0 h1:mfG2ATzIS7NR2Ec6XL+xyoHzN97H8WPjir8aYzJUSec=
+github.com/containrrr/shoutrrr v0.8.0/go.mod h1:ioyQAyu1LJY6sILuNyKaQaw+9Ttik5QePU8atnAdO2o=
+github.com/containrrr/watchtower v1.5.4-0.20230918123032-9b28fbc24dda h1:tb97JDo+yi7flZV7QfO9HXblu1r2NZS9GTk8nXjpH2U=
+github.com/containrrr/watchtower v1.5.4-0.20230918123032-9b28fbc24dda/go.mod h1:Z/Lwyq44vbXsOMtPT+nwLsx8Carkbit8rtI6vlbZeeY=
 github.com/hestiacp/hestiacp v0.0.0-20230925161312-a4a861aec09e h1:Ej5RsNbiwtKkdtIOb3erdVLu8cfmn/xGqJ2G+oNpnHw=
 github.com/hestiacp/hestiacp v0.0.0-20230925161312-a4a861aec09e/go.mod h1:pico+FtE/zPP1PixvU9yjOHRitcTi0RSwArrJIVX8AY=
+github.com/louislam/uptime-kuma v0.0.0-20230925094900-98b93c887a49 h1:bET8m2Wm7ulCSQnjENpX7lysyCjyXw78u6BTISEePic=
+github.com/louislam/uptime-kuma v0.0.0-20230925094900-98b93c887a49/go.mod h1:9ttO1NMSGfqSuAQkdifMdBy1Z4p7H+S2zHqZv3ha9vc=
+github.com/noblox/noblox.js v4.14.1-0.20230807194139-d3a9c838adc6+incompatible h1:T77ivM2MGH5aQXLKQ2ZByW8sNuSWFS/1OGIPC3B/r9k=
+github.com/noblox/noblox.js v4.14.1-0.20230807194139-d3a9c838adc6+incompatible/go.mod h1:X3RMZMbM5iPlRlC59CFjfty10l8RoZZWLcaIPXpopWw=
+github.com/portainer/portainer v0.6.1-0.20230925174026-2dfa4a7c454a h1:n6VVYwwHrMGhu014VhY+eI4jO1y1ZHdpPc4fFsTMWpk=
+github.com/portainer/portainer v0.6.1-0.20230925174026-2dfa4a7c454a/go.mod h1:uys7M2fkc88DwVYMMtWYZPjBLOjbog3d7wXO+rUE6xE=
