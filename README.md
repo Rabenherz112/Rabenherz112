@@ -110,7 +110,7 @@ Last Updated: Monday, September 25th, 2023, 2:18:14 AM
 <hr>
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
-<p> <img src="https://vercel.theravenhub.com/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats" width="420"/>
-<img src="https://vercel.theravenhub.com/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages" width="305"/></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages" width="305"/></p>
 </div>
-<p align="center"> <img src="https://vercel.theravenhub.com/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/></p>
