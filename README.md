@@ -95,11 +95,10 @@
 (3) 👍 Approved [#322](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/322#pullrequestreview-1702205520) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (4) ❌ Closed PR [#4146](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4146) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 (5) ❗️ Opened issue [#308](https://github.com/opencve/opencve/issues/308) in [opencve/opencve](https://github.com/opencve/opencve)<br>
-(6) 👍 Approved [#509](https://github.com/awesome-foss/awesome-sysadmin/pull/509#pullrequestreview-1641397247) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 26th, 2023, 2:18:47 AM
+Last Updated: Tuesday, December 26th, 2023, 2:06:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
