@@ -24,7 +24,7 @@
 <p align="center">
     <img alt="Manga series count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=series">
         ‎ ‎ ‎
-    <img alt="Manga files count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=files">
+    <img alt="Manga size" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=size">
         ‎ ‎ ‎
     <img alt="Manga genres count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=genres">
 </p>
