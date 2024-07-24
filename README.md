@@ -19,6 +19,16 @@
     Overall, I am a driven individual who enjoys technology and the creative possibilities it offers. I always strive to learn new things and apply them to both my personal and professional life.
 </p>
 <p align="center">
+    Some of my manga library stats
+</p>
+<p align="center">
+    <img alt="Manga series count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=series">
+        ‎ ‎ ‎
+    <img alt="Manga files count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=files">
+        ‎ ‎ ‎
+    <img alt="Manga genres count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=genres">
+</p>
+<p align="center">
     <img alt="Profile Views" src="https://utility.theravenhub.com/scripts/github-pf-counter/">
 </p>
 <hr>
