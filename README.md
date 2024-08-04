@@ -22,11 +22,11 @@
     Some of my manga library stats
 </p>
 <p align="center">
-    <img alt="Manga series count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=series">
+    <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga series count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=series"></a>
         ‎ ‎ ‎
-    <img alt="Manga size" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=size">
+    <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga size" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=size"></a>
         ‎ ‎ ‎
-    <img alt="Manga genres count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=genres">
+    <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga genres count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=genres"></a>
 </p>
 <p align="center">
     <img alt="Profile Views" src="https://utility.theravenhub.com/scripts/github-pf-counter/">
