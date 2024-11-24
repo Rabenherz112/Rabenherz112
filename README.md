@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#970](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/970) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) ❗️ Opened issue [#142](https://github.com/nodiscc/hecat/issues/142) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
-(3) 💪 Opened PR [#968](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/968) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 💪 Opened PR [#967](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/967) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 💪 Opened PR [#965](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/965) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 💪 Opened PR [#964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/964) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) 💪 Opened PR [#963](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/963) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ❌ Closed PR [#942](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/942) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 👍 Approved [#943](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/943#pullrequestreview-2440358995) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 💪 Opened PR [#962](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/962) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 💪 Opened PR [#961](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/961) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#878](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/878#pullrequestreview-2440355654) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 💪 Opened PR [#976](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/976) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ❗️ Opened issue [#3229](https://github.com/vendure-ecommerce/vendure/issues/3229) in [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)<br>
+(3) 👍 Approved [#973](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/973#pullrequestreview-2456388620) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 🔎 Requested changes in [#973](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/973#pullrequestreview-2456388193) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❌ Closed PR [#975](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/975) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 👍 Approved [#892](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/892#pullrequestreview-2455023064) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#970](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/970) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ❗️ Opened issue [#142](https://github.com/nodiscc/hecat/issues/142) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
+(9) 💪 Opened PR [#968](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/968) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 💪 Opened PR [#967](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/967) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) 💪 Opened PR [#965](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/965) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 💪 Opened PR [#964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/964) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 23rd, 2024, 2:07:02 AM
+Last Updated: Sunday, November 24th, 2024, 2:08:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
