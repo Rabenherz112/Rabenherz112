@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ✌️ Released [v0.2.0](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.2.0) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
-(2) ❌ Closed PR [#133](https://github.com/nodiscc/hecat/pull/133) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
-(3) 💪 Opened PR [#143](https://github.com/nodiscc/hecat/pull/143) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
-(4) ✌️ Released [v0.1.1](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.1.1) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
+(1) ❌ Closed PR [#1064](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1064) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ✌️ Released [v0.2.0](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.2.0) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
+(3) ❌ Closed PR [#133](https://github.com/nodiscc/hecat/pull/133) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
+(4) 💪 Opened PR [#143](https://github.com/nodiscc/hecat/pull/143) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
 (5) ✌️ Released [v0.1.1](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.1.1) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
-(6) ✌️ Released [v0.1.0](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.1.0) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
-(7) ❗️ Opened issue [#467](https://github.com/bevry/staticsitegenerators-list/issues/467) in [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list)<br>
-(8) 👍 Approved [#1002](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1002#pullrequestreview-2519111456) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 💪 Opened PR [#1031](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1031) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 👍 Approved [#1001](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1001#pullrequestreview-2518658184) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 🔎 Requested changes in [#1002](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1002#pullrequestreview-2518657899) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#1023](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1023#pullrequestreview-2518657204) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ✌️ Released [v0.1.1](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.1.1) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
+(7) ✌️ Released [v0.1.0](https://github.com/Rabenherz112/Map-the-Internet/releases/tag/v0.1.0) in [Rabenherz112/Map-the-Internet](https://github.com/Rabenherz112/Map-the-Internet)<br>
+(8) ❗️ Opened issue [#467](https://github.com/bevry/staticsitegenerators-list/issues/467) in [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list)<br>
+(9) 👍 Approved [#1002](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1002#pullrequestreview-2519111456) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 💪 Opened PR [#1031](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1031) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) 👍 Approved [#1001](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1001#pullrequestreview-2518658184) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 🔎 Requested changes in [#1002](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1002#pullrequestreview-2518657899) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 3rd, 2025, 2:07:10 AM
+Last Updated: Saturday, January 4th, 2025, 2:06:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
