@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#1117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1117) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 👍 Approved [#1035](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1035#pullrequestreview-2573996593) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ❌ Closed PR [#1114](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1114) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 🎉 Merged PR [#88](https://github.com/Rabenherz112/Gamey/pull/88) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(5) ❌ Closed PR [#86](https://github.com/Rabenherz112/Gamey/pull/86) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(6) 🎉 Merged PR [#77](https://github.com/Rabenherz112/Gamey/pull/77) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(7) 🎉 Merged PR [#69](https://github.com/Rabenherz112/Gamey/pull/69) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(8) 🎉 Merged PR [#87](https://github.com/Rabenherz112/Gamey/pull/87) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(9) 🎉 Merged PR [#89](https://github.com/Rabenherz112/Gamey/pull/89) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(10) 👍 Approved [#89](https://github.com/Rabenherz112/Gamey/pull/89#pullrequestreview-2568356397) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(11) 👍 Approved [#87](https://github.com/Rabenherz112/Gamey/pull/87#pullrequestreview-2568352002) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(12) 👍 Approved [#1085](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1085#pullrequestreview-2560488773) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 👍 Approved [#9](https://github.com/LionSin4/Programmieren-lernen/pull/9#pullrequestreview-2574399402) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(2) ❗️ Opened issue [#7](https://github.com/LionSin4/Programmieren-lernen/issues/7) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(3) ❗️ Opened issue [#6](https://github.com/LionSin4/Programmieren-lernen/issues/6) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(4) ❗️ Opened issue [#4](https://github.com/LionSin4/Programmieren-lernen/issues/4) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(5) ❗️ Opened issue [#1](https://github.com/LionSin4/Programmieren-lernen/issues/1) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(6) 💪 Opened PR [#1117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1117) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 👍 Approved [#1035](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1035#pullrequestreview-2573996593) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ❌ Closed PR [#1114](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1114) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 🎉 Merged PR [#88](https://github.com/Rabenherz112/Gamey/pull/88) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(10) ❌ Closed PR [#86](https://github.com/Rabenherz112/Gamey/pull/86) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(11) 🎉 Merged PR [#77](https://github.com/Rabenherz112/Gamey/pull/77) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(12) 🎉 Merged PR [#69](https://github.com/Rabenherz112/Gamey/pull/69) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 26th, 2025, 2:07:28 AM
+Last Updated: Monday, January 27th, 2025, 2:07:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
