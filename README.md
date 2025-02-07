@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 👍 Approved [#1095](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1095#pullrequestreview-2588538821) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 💪 Opened PR [#1131](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1131) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 👍 Approved [#1119](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1119#pullrequestreview-2588536747) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 🎉 Merged PR [#90](https://github.com/Rabenherz112/Gamey/pull/90) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(5) 👍 Approved [#9](https://github.com/LionSin4/Programmieren-lernen/pull/9#pullrequestreview-2574399402) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
-(6) ❗️ Opened issue [#7](https://github.com/LionSin4/Programmieren-lernen/issues/7) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
-(7) ❗️ Opened issue [#6](https://github.com/LionSin4/Programmieren-lernen/issues/6) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
-(8) ❗️ Opened issue [#4](https://github.com/LionSin4/Programmieren-lernen/issues/4) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
-(9) ❗️ Opened issue [#1](https://github.com/LionSin4/Programmieren-lernen/issues/1) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
-(10) 💪 Opened PR [#1117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1117) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 👍 Approved [#1035](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1035#pullrequestreview-2573996593) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) ❌ Closed PR [#1114](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1114) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 👍 Approved [#1136](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1136#pullrequestreview-2595999457) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 👍 Approved [#1124](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1124#pullrequestreview-2595324203) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) 👍 Approved [#1095](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1095#pullrequestreview-2588538821) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 💪 Opened PR [#1131](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1131) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 👍 Approved [#1119](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1119#pullrequestreview-2588536747) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 🎉 Merged PR [#90](https://github.com/Rabenherz112/Gamey/pull/90) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(7) 👍 Approved [#9](https://github.com/LionSin4/Programmieren-lernen/pull/9#pullrequestreview-2574399402) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(8) ❗️ Opened issue [#7](https://github.com/LionSin4/Programmieren-lernen/issues/7) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(9) ❗️ Opened issue [#6](https://github.com/LionSin4/Programmieren-lernen/issues/6) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(10) ❗️ Opened issue [#4](https://github.com/LionSin4/Programmieren-lernen/issues/4) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(11) ❗️ Opened issue [#1](https://github.com/LionSin4/Programmieren-lernen/issues/1) in [LionSin4/Programmieren-lernen](https://github.com/LionSin4/Programmieren-lernen)<br>
+(12) 💪 Opened PR [#1117](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1117) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 6th, 2025, 2:06:53 AM
+Last Updated: Friday, February 7th, 2025, 2:07:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
