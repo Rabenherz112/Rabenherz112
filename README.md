@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 🎉 Merged PR [#92](https://github.com/Rabenherz112/Gamey/pull/92) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(2) 👍 Approved [#92](https://github.com/Rabenherz112/Gamey/pull/92#pullrequestreview-2603411634) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(3) 🎉 Merged PR [#95](https://github.com/Rabenherz112/Gamey/pull/95) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(4) 👍 Approved [#95](https://github.com/Rabenherz112/Gamey/pull/95#pullrequestreview-2603410055) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
-(5) 💪 Opened PR [#1139](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1139) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 💪 Opened PR [#1138](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1138) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) 👍 Approved [#1136](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1136#pullrequestreview-2595999457) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 👍 Approved [#1124](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1124#pullrequestreview-2595324203) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 👍 Approved [#1095](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1095#pullrequestreview-2588538821) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 💪 Opened PR [#1131](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1131) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 👍 Approved [#1119](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1119#pullrequestreview-2588536747) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 🎉 Merged PR [#90](https://github.com/Rabenherz112/Gamey/pull/90) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(1) 👍 Approved [#1141](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1141#pullrequestreview-2604314134) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 🎉 Merged PR [#92](https://github.com/Rabenherz112/Gamey/pull/92) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(3) 👍 Approved [#92](https://github.com/Rabenherz112/Gamey/pull/92#pullrequestreview-2603411634) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(4) 🎉 Merged PR [#95](https://github.com/Rabenherz112/Gamey/pull/95) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(5) 👍 Approved [#95](https://github.com/Rabenherz112/Gamey/pull/95#pullrequestreview-2603410055) in [Rabenherz112/Gamey](https://github.com/Rabenherz112/Gamey)<br>
+(6) 💪 Opened PR [#1139](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1139) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 💪 Opened PR [#1138](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1138) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 👍 Approved [#1136](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1136#pullrequestreview-2595999457) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 👍 Approved [#1124](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1124#pullrequestreview-2595324203) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 👍 Approved [#1095](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1095#pullrequestreview-2588538821) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) 💪 Opened PR [#1131](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1131) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 👍 Approved [#1119](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1119#pullrequestreview-2588536747) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 9th, 2025, 2:07:38 AM
+Last Updated: Monday, February 10th, 2025, 2:07:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
