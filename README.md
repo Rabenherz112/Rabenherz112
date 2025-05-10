@@ -101,11 +101,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 (1) 👍 Approved [#1335](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1335#pullrequestreview-2810498290) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 👍 Approved [#1331](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1331#pullrequestreview-2804514830) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 2:07:55 AM
+Last Updated: Saturday, May 10th, 2025, 2:07:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
