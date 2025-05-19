@@ -111,11 +111,10 @@
 (9) ✌️ Released [0.1.0 - Test](https://github.com/Rabenherz112/compose-manager/releases/tag/0.1.0) in [Rabenherz112/compose-manager](https://github.com/Rabenherz112/compose-manager)<br>
 (10) 👍 Approved [#1363](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1363#pullrequestreview-2831317734) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (11) 👍 Approved [#1363](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1363#pullrequestreview-2831317734) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) ❌ Closed PR [#617](https://github.com/awesome-foss/awesome-sysadmin/pull/617) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 18th, 2025, 2:09:02 AM
+Last Updated: Monday, May 19th, 2025, 2:08:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
