@@ -26,6 +26,8 @@
         ‎ ‎ ‎
     <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga size" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=size"></a>
         ‎ ‎ ‎
+    <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga size" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=chapters"></a>
+        ‎ ‎ ‎
     <a href="https://manga.theravenhub.com" target="_blank"><img alt="Manga genres count" src="https://utility.theravenhub.com/scripts/github-pf-manga/?badge=genres"></a>
 </p>
 <p align="center">
