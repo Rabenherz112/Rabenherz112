@@ -37,7 +37,7 @@
 
 <table style="width: 100%; border: 0px; table-layout:fixed;">
 <tr>
-<td border="0px" width="25%"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&api_domain=wakapi.theravenhub.com&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 100%"></td>
+<td border="0px" width="25%"><img src="https://github-profile-trophy.vercel.app/?username=rabenherz112&no-bg=true&no-frame=true&theme=discord&title=Commits&column=-1" alt="Commits" style="width: 100%"></td>
 <td border="0px" width="75%"><h2>Open Source is a great tool</h2>
     <p>Open-source software is something I am passionate about. While I may not be a heavy maintainer or contributor, and scripting are not my strong suit, I do what I can to contribute to the community. Whether it's fixing minor issues that might have been overlooked, making general improvements, helping with reviewing Pull Requests or enhancing documentation. I believe that every little bit helps when it comes to open-source projects.</p></td>
 </tr>
@@ -122,7 +122,7 @@ Last Updated: Saturday, June 21st, 2025, 2:08:12 AM
 <hr>
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Rabenherz112&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages" width="305"/></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Rabenherz112&api_domain=wakapi.theravenhub.com&show_icons=true&theme=github_dark&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=60&custom_title=General%20Statistics" alt="GitHub Stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabenherz112&api_domain=wakapi.theravenhub.com&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="GitHub Top Languages" width="305"/></p>
 </div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rabenherz112&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rabenherz112&api_domain=wakapi.theravenhub.com&layout=compact&theme=github_dark&hide_border=true&cache_seconds=60" alt="Coding Time"/></p>
