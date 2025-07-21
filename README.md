@@ -102,22 +102,20 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#1498](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1498) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 💪 Opened PR [#1499](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1499) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 👍 Approved [#1487](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1487#pullrequestreview-3035304628) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 👍 Approved [#1483](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1483#pullrequestreview-3035302761) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 👍 Approved [#1493](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1493#pullrequestreview-3035299999) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 🔎 Requested changes in [#1495](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1495#pullrequestreview-3035299653) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ✌️ Released [v1.0.15](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.15) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(8) ✌️ Released [v1.0.14](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.14) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(9) ✌️ Released [v1.0.13](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.13) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(10) ✌️ Released [v1.0.12](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.12) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(11) ✌️ Released [v1.0.11](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.11) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(12) ✌️ Released [v1.0.10](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.10) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
+(1) 🔎 Requested changes in [#1497](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1497#pullrequestreview-3035908419) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 👍 Approved [#1495](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1495#pullrequestreview-3035907476) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ✌️ Released [v1.0.16](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.16) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
+(4) ❌ Closed PR [#1498](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1498) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 💪 Opened PR [#1499](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1499) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 👍 Approved [#1487](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1487#pullrequestreview-3035304628) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 👍 Approved [#1483](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1483#pullrequestreview-3035302761) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 👍 Approved [#1493](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1493#pullrequestreview-3035299999) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 🔎 Requested changes in [#1495](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1495#pullrequestreview-3035299653) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ✌️ Released [v1.0.15](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.15) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 20th, 2025, 2:09:44 AM
+Last Updated: Monday, July 21st, 2025, 2:09:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
