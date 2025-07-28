@@ -102,19 +102,19 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#1504](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1504) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) ❌ Closed PR [#1](https://github.com/Rabenherz112/map-the-net-crawler/pull/1) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(3) 👍 Approved [#1497](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1497#pullrequestreview-3052611324) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 🎉 Merged PR [#1487](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1487) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 🎉 Merged PR [#1501](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1501) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 💪 Opened PR [#1501](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1501) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ❌ Closed PR [#1499](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1499) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ✌️ Released [v1.0.18](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.18) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
-(9) ✌️ Released [v1.0.17](https://github.com/Rabenherz112/map-the-net-crawler/releases/tag/v1.0.17) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
+(1) 👍 Approved [#1503](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1503#pullrequestreview-3059471867) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 👍 Approved [#1507](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1507#pullrequestreview-3059438114) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ✔️ Closed issue [#1356](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1356) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 🎉 Merged PR [#1483](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1483) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 🔎 Requested changes in [#1503](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1503#pullrequestreview-3059432132) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❌ Closed PR [#1506](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1506) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#1504](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1504) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ❌ Closed PR [#1](https://github.com/Rabenherz112/map-the-net-crawler/pull/1) in [Rabenherz112/map-the-net-crawler](https://github.com/Rabenherz112/map-the-net-crawler)<br>
+(9) 👍 Approved [#1497](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1497#pullrequestreview-3052611324) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 2:09:37 AM
+Last Updated: Monday, July 28th, 2025, 2:09:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
