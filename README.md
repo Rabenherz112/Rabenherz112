@@ -102,22 +102,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 🎉 Merged PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 💪 Opened PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ❌ Closed PR [#1580](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1580) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 👍 Approved [#1562](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1562#pullrequestreview-3115502090) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 👍 Approved [#1559](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1559#pullrequestreview-3115495805) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 👍 Approved [#1576](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1576#pullrequestreview-3115492623) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) 👍 Approved [#1567](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1567#pullrequestreview-3112630519) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 🔎 Requested changes in [#1576](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1576#pullrequestreview-3112609659) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) ❗️ Opened issue [#1292](https://github.com/manga-download/haruneko/issues/1292) in [manga-download/haruneko](https://github.com/manga-download/haruneko)<br>
-(10) 🎉 Merged PR [#1572](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1572) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 🎉 Merged PR [#1571](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1571) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 🎉 Merged PR [#1568](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1568) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ✌️ Released [v1.0.1](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/releases/tag/v1.0.1) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(2) 🎉 Merged PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) 💪 Opened PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ❌ Closed PR [#1580](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1580) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 👍 Approved [#1562](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1562#pullrequestreview-3115502090) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 👍 Approved [#1559](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1559#pullrequestreview-3115495805) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 👍 Approved [#1576](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1576#pullrequestreview-3115492623) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 👍 Approved [#1567](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1567#pullrequestreview-3112630519) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 🔎 Requested changes in [#1576](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1576#pullrequestreview-3112609659) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ❗️ Opened issue [#1292](https://github.com/manga-download/haruneko/issues/1292) in [manga-download/haruneko](https://github.com/manga-download/haruneko)<br>
+(11) 🎉 Merged PR [#1572](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1572) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 🎉 Merged PR [#1571](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1571) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 16th, 2025, 2:08:11 AM
+Last Updated: Sunday, August 17th, 2025, 2:09:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
