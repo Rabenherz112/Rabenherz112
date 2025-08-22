@@ -113,11 +113,10 @@
 (9) 🎉 Merged PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (10) 💪 Opened PR [#1581](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1581) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (11) ❌ Closed PR [#1580](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1580) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#1562](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1562#pullrequestreview-3115502090) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 21st, 2025, 2:06:27 AM
+Last Updated: Friday, August 22nd, 2025, 2:07:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
