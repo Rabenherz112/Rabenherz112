@@ -113,11 +113,10 @@
 (9) 👍 Approved [#1598](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1598#pullrequestreview-3147485272) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (10) ✔️ Closed issue [#1600](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1600) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (11) 🔎 Requested changes in [#1596](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1596#pullrequestreview-3147445909) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 🔎 Requested changes in [#1598](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1598#pullrequestreview-3147428013) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 29th, 2025, 2:07:46 AM
+Last Updated: Saturday, August 30th, 2025, 2:07:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
