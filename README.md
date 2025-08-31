@@ -110,13 +110,10 @@
 (6) 🎉 Merged PR [#7](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/7) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 (7) 💪 Opened PR [#7](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/7) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 (8) 💪 Opened PR [#6](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/6) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(9) 👍 Approved [#1598](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1598#pullrequestreview-3147485272) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) ✔️ Closed issue [#1600](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1600) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 🔎 Requested changes in [#1596](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1596#pullrequestreview-3147445909) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 2:07:26 AM
+Last Updated: Sunday, August 31st, 2025, 2:09:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
