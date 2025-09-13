@@ -15,8 +15,6 @@
     Apart from my work, I am passionate about self-hosting, which is why I have set up multiple V-Servers, Raspberry PIs, and Synology NAS to offer various web services and Discord bots. I love tinkering with new technology and experimenting with different coding languages. JavaScript and PowerShell are my favorites, and I always challenge myself with different programming projects to improve my skills.
     <br>
     Another hobby of mine is reading manga, and I have an extensive manga collection that I am proud of. I enjoy hosting and sharing my collection with others who have a similar interest. In my free time, I like to unwind by playing Rouge-Likes or catching up on the latest anime.
-    <br><br>
-    Overall, I am a driven individual who enjoys technology and the creative possibilities it offers. I always strive to learn new things and apply them to both my personal and professional life.
 </p>
 <p align="center">
     Some of my manga library stats
