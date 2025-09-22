@@ -100,20 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#1664](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1664) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 🎉 Merged PR [#1642](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1642) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 👍 Approved [#1642](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1642#pullrequestreview-3249167434) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) ❌ Closed PR [#1662](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1662) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 🤝 Became collaborator on [Askir4/Klassenshit](https://github.com/Askir4/Klassenshit)<br>
-(6) ✌️ Released [v1.4.0](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/releases/tag/v1.4.0) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(7) 🎉 Merged PR [#12](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/12) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(8) 🔎 Requested changes in [#1615](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1615#pullrequestreview-3220361572) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 💪 Opened PR [#12](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/12) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(10) 🎉 Merged PR [#11](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/11) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(1) ✔️ Closed issue [#1667](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1667) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 🎉 Merged PR [#13](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/13) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(3) 💪 Opened PR [#13](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/13) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(4) 👍 Approved [#1663](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1663#pullrequestreview-3249966933) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ✔️ Closed issue [#1665](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1665) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 💪 Opened PR [#1664](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1664) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 🎉 Merged PR [#1642](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1642) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 👍 Approved [#1642](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1642#pullrequestreview-3249167434) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ❌ Closed PR [#1662](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1662) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 🤝 Became collaborator on [Askir4/Klassenshit](https://github.com/Askir4/Klassenshit)<br>
+(11) ✌️ Released [v1.4.0](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/releases/tag/v1.4.0) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(12) 🎉 Merged PR [#12](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/12) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 21st, 2025, 2:08:33 AM
+Last Updated: Monday, September 22nd, 2025, 2:08:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
