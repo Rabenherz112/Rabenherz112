@@ -100,18 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#16](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/16) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(2) 💪 Opened PR [#15](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/15) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(3) 🎉 Merged PR [#14](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/14) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(4) 💪 Opened PR [#14](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/14) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(5) 🎉 Merged PR [#1641](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1641) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 🎉 Merged PR [#1664](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1664) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ✔️ Closed issue [#1354](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1354) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 🎉 Merged PR [#1663](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1663) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 🎉 Merged PR [#17](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/17) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(2) 💪 Opened PR [#17](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/17) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(3) ❌ Closed PR [#15](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/15) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(4) 🔎 Requested changes in [#1673](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1673#pullrequestreview-3301721043) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 💪 Opened PR [#1696](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1696) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 👍 Approved [#1689](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1689#pullrequestreview-3301717844) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 🔎 Requested changes in [#1689](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1689#pullrequestreview-3301713004) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 👍 Approved [#1690](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1690#pullrequestreview-3300989852) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 💪 Opened PR [#16](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/16) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(10) 💪 Opened PR [#15](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/15) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(11) 🎉 Merged PR [#14](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/14) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(12) 💪 Opened PR [#14](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/pull/14) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 4th, 2025, 2:07:26 AM
+Last Updated: Sunday, October 5th, 2025, 2:08:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
