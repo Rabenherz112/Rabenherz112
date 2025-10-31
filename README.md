@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#1749](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 👍 Approved [#1703](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1703#pullrequestreview-3383048344) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 💪 Opened PR [#1743](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) ✔️ Closed issue [#21](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/21) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(5) ✔️ Closed issue [#23](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/23) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(6) ✔️ Closed issue [#20](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/20) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(7) 💪 Opened PR [#26](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(8) 💪 Opened PR [#25](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(9) ✔️ Closed issue [#22](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/22) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(10) 💪 Opened PR [#24](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(11) 👍 Approved [#1412](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1412#pullrequestreview-3380495955) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#1714](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1714#pullrequestreview-3380495201) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ✔️ Closed issue [#1755](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1755) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 👍 Approved [#1747](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1747#pullrequestreview-3400313054) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) 👍 Approved [#1707](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1707#pullrequestreview-3400288393) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ❌ Closed PR [#1742](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 🔎 Requested changes in [#1747](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1747#pullrequestreview-3400248074) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❌ Closed PR [#1748](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 💪 Opened PR [#1754](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 💪 Opened PR [#1753](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ❌ Closed PR [#1750](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 💪 Opened PR [#1749](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) 👍 Approved [#1703](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1703#pullrequestreview-3383048344) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 💪 Opened PR [#1743](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 30th, 2025, 2:08:30 AM
+Last Updated: Friday, October 31st, 2025, 2:08:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
