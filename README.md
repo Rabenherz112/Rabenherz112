@@ -100,14 +100,14 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 👍 Approved [#1810](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1810#pullrequestreview-3473749862) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 👍 Approved [#1794](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1794#pullrequestreview-3473744091) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) 🔎 Requested changes in [#1794](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1794#pullrequestreview-3470055378) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 💪 Opened PR [#42](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(1) 👍 Approved [#1818](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1818#pullrequestreview-3496725946) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 👍 Approved [#1810](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1810#pullrequestreview-3473749862) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) 👍 Approved [#1794](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1794#pullrequestreview-3473744091) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 🔎 Requested changes in [#1794](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1794#pullrequestreview-3470055378) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 22nd, 2025, 2:08:10 AM
+Last Updated: Sunday, November 23rd, 2025, 2:09:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
