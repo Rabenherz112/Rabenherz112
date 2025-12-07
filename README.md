@@ -107,12 +107,10 @@
 (5) ✔️ Closed issue [#1778](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1778) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (6) ✔️ Closed issue [#1712](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1712) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (7) ✔️ Closed issue [#1732](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1732) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 💪 Opened PR [#49](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(9) ❗️ Opened issue [#48](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/48) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 6th, 2025, 2:08:14 AM
+Last Updated: Sunday, December 7th, 2025, 2:09:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
