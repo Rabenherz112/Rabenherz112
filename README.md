@@ -108,12 +108,10 @@
 (6) ❌ Closed PR [#1842](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (7) ❗️ Opened issue [#51](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/51) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
 (8) ✔️ Closed issue [#50](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/50) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(9) 🔎 Requested changes in [#1847](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1847#pullrequestreview-3552611622) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 👍 Approved [#1814](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1814#pullrequestreview-3551160986) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 13th, 2025, 2:08:47 AM
+Last Updated: Sunday, December 14th, 2025, 2:09:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
