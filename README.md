@@ -105,11 +105,10 @@
 (3) ❌ Closed PR [#1888](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (4) 👍 Approved [#1889](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1889#pullrequestreview-3614671158) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (5) ✌️ Released [v2.1.0](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/releases/tag/v2.1.0) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
-(6) ✔️ Closed issue [#1858](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1858) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 2:10:16 AM
+Last Updated: Friday, January 2nd, 2026, 2:08:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
