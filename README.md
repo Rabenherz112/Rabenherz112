@@ -100,20 +100,19 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#1927](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 💪 Opened PR [#657](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(3) 💪 Opened PR [#1926](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 💪 Opened PR [#1925](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) ✔️ Closed issue [#1602](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1602) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) ✔️ Closed issue [#1844](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1844) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) 👍 Approved [#1916](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1916#pullrequestreview-3647574217) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 👍 Approved [#1912](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1912#pullrequestreview-3647573744) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 👍 Approved [#1917](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1917#pullrequestreview-3646720001) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 👍 Approved [#1850](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1850#pullrequestreview-3646705661) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ✔️ Closed issue [#1939](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1939) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ✔️ Closed issue [#1940](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1940) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ✔️ Closed issue [#1941](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1941) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) 🔎 Requested changes in [#1934](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1934#pullrequestreview-3666534323) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) 💪 Opened PR [#1937](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 👍 Approved [#1933](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1933#pullrequestreview-3666321169) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ✔️ Closed issue [#1936](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1936) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ✔️ Closed issue [#59](https://github.com/Rabenherz112/awesome-selfhosted-web-gen/issues/59) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(9) 💪 Opened PR [#1927](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 15th, 2026, 2:09:06 AM
+Last Updated: Friday, January 16th, 2026, 2:09:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
