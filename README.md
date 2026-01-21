@@ -108,12 +108,10 @@
 (6) 💪 Opened PR [#1944](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (7) ❌ Closed PR [#1942](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (8) ✔️ Closed issue [#1939](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1939) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) ✔️ Closed issue [#1940](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1940) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) ✔️ Closed issue [#1941](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1941) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 20th, 2026, 2:08:40 AM
+Last Updated: Wednesday, January 21st, 2026, 2:08:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
