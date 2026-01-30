@@ -110,12 +110,10 @@
 (8) ❌ Closed PR [#1932](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (9) 👍 Approved [#1934](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1934#pullrequestreview-3703733910) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 (10) 👍 Approved [#1957](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1957#pullrequestreview-3702749089) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) ✔️ Closed issue [#1950](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1950) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#1956](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1956#pullrequestreview-3701419296) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 2:10:41 AM
+Last Updated: Friday, January 30th, 2026, 2:11:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
