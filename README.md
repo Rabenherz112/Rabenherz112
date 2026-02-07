@@ -100,19 +100,19 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 👍 Approved [#1964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1964#pullrequestreview-3758077525) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) ❌ Closed PR [#1977](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ✌️ Released [0.3.0 - Support deleting services](https://github.com/Rabenherz112/compose-manager/releases/tag/0.3.0) in [Rabenherz112/compose-manager](https://github.com/Rabenherz112/compose-manager)<br>
-(4) 👍 Approved [#1910](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1910#pullrequestreview-3735558317) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 🔎 Requested changes in [#1964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1964#pullrequestreview-3735549203) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) ❌ Closed PR [#1973](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ✔️ Closed issue [#1931](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1931) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ✔️ Closed issue [#1634](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1634) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 💪 Opened PR [#60](undefined) in [Rabenherz112/awesome-selfhosted-web-gen](https://github.com/Rabenherz112/awesome-selfhosted-web-gen)<br>
+(1) ❌ Closed PR [#667](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(2) 👍 Approved [#1964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1964#pullrequestreview-3758077525) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ❌ Closed PR [#1977](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ✌️ Released [0.3.0 - Support deleting services](https://github.com/Rabenherz112/compose-manager/releases/tag/0.3.0) in [Rabenherz112/compose-manager](https://github.com/Rabenherz112/compose-manager)<br>
+(5) 👍 Approved [#1910](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1910#pullrequestreview-3735558317) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) 🔎 Requested changes in [#1964](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1964#pullrequestreview-3735549203) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#1973](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ✔️ Closed issue [#1931](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1931) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ✔️ Closed issue [#1634](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1634) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 6th, 2026, 2:09:11 AM
+Last Updated: Saturday, February 7th, 2026, 2:12:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
