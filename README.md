@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❗️ Opened issue [#65](https://github.com/Rabenherz112/aswg/issues/65) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(2) 👍 Approved [#1983](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1983#pullrequestreview-3804459811) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ❌ Closed PR [#2011](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) ❌ Closed PR [#2017](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) ❌ Closed PR [#2021](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) ❌ Closed PR [#2020](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ❌ Closed PR [#2019](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ✔️ Closed issue [#2018](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2018) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) ❗️ Opened issue [#64](https://github.com/Rabenherz112/aswg/issues/64) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(10) 💪 Opened PR [#2016](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 🔎 Requested changes in [#2014](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2014#pullrequestreview-3801596105) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 🔎 Requested changes in [#1983](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1983#pullrequestreview-3801591249) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 💪 Opened PR [#2029](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ❗️ Opened issue [#67](https://github.com/Rabenherz112/aswg/issues/67) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(3) ❗️ Opened issue [#66](https://github.com/Rabenherz112/aswg/issues/66) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(4) ❌ Closed PR [#2023](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❗️ Opened issue [#65](https://github.com/Rabenherz112/aswg/issues/65) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(6) 👍 Approved [#1983](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1983#pullrequestreview-3804459811) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#2011](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ❌ Closed PR [#2017](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ❌ Closed PR [#2021](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ❌ Closed PR [#2020](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) ❌ Closed PR [#2019](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) ✔️ Closed issue [#2018](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2018) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 16th, 2026, 2:12:16 AM
+Last Updated: Tuesday, February 17th, 2026, 2:12:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
