@@ -100,20 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ✔️ Closed issue [#62](https://github.com/Rabenherz112/aswg/issues/62) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(2) ✔️ Closed issue [#43](https://github.com/Rabenherz112/aswg/issues/43) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(3) ✔️ Closed issue [#57](https://github.com/Rabenherz112/aswg/issues/57) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(4) ✔️ Closed issue [#56](https://github.com/Rabenherz112/aswg/issues/56) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(5) ❗️ Opened issue [#69](https://github.com/Rabenherz112/aswg/issues/69) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(6) ❗️ Opened issue [#68](https://github.com/Rabenherz112/aswg/issues/68) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(7) 💪 Opened PR [#2029](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) ❗️ Opened issue [#67](https://github.com/Rabenherz112/aswg/issues/67) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(9) ❗️ Opened issue [#66](https://github.com/Rabenherz112/aswg/issues/66) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(10) ❌ Closed PR [#2023](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 💪 Opened PR [#72](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(2) 💪 Opened PR [#71](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(3) ✔️ Closed issue [#65](https://github.com/Rabenherz112/aswg/issues/65) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(4) 💪 Opened PR [#70](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(5) ❌ Closed PR [#2022](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❌ Closed PR [#2024](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#2031](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) ❌ Closed PR [#2045](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ❌ Closed PR [#2047](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ❌ Closed PR [#2048](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) ❌ Closed PR [#2046](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) ✔️ Closed issue [#62](https://github.com/Rabenherz112/aswg/issues/62) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 22nd, 2026, 2:11:27 AM
+Last Updated: Monday, February 23rd, 2026, 2:12:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
