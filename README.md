@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#2401](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) ❗️ Opened issue [#3](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/3) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(3) ❗️ Opened issue [#2](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/2) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(4) ❗️ Opened issue [#1](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(5) ❌ Closed PR [#2399](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 💪 Opened PR [#786](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(7) 💪 Opened PR [#2398](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 💪 Opened PR [#2397](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) ❌ Closed PR [#785](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(10) ❌ Closed PR [#4198](undefined) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(11) ❌ Closed PR [#4197](undefined) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-(12) ❗️ Opened issue [#2394](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2394) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) 🔎 Requested changes in [#4](https://github.com/Rabenherz112/awesome-sysadmin-data/pull/4#pullrequestreview-4216332281) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
+(2) 👍 Approved [#2357](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2357#pullrequestreview-4216111337) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ✔️ Closed issue [#2372](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2372) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ❌ Closed PR [#2405](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❌ Closed PR [#2401](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❗️ Opened issue [#3](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/3) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
+(7) ❗️ Opened issue [#2](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/2) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
+(8) ❗️ Opened issue [#1](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
+(9) ❌ Closed PR [#2399](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 💪 Opened PR [#786](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(11) 💪 Opened PR [#2398](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 💪 Opened PR [#2397](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 2:23:26 AM
+Last Updated: Monday, May 4th, 2026, 2:24:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
