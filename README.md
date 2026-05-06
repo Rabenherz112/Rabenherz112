@@ -100,21 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#2408](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) 🔎 Requested changes in [#4](https://github.com/Rabenherz112/awesome-sysadmin-data/pull/4#pullrequestreview-4216332281) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(3) 👍 Approved [#2357](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2357#pullrequestreview-4216111337) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) ✔️ Closed issue [#2372](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2372) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) ❌ Closed PR [#2405](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) ❌ Closed PR [#2401](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) ❗️ Opened issue [#3](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/3) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(8) ❗️ Opened issue [#2](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/2) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(9) ❗️ Opened issue [#1](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
-(10) ❌ Closed PR [#2399](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 💪 Opened PR [#786](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(1) ❌ Closed PR [#2418](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) 🤝 Became collaborator on [lischetzke/pear-webmgr](https://github.com/lischetzke/pear-webmgr)<br>
+(3) ✔️ Closed issue [#2416](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2416) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ✔️ Closed issue [#2415](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2415) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❌ Closed PR [#2414](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❌ Closed PR [#2408](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) 🔎 Requested changes in [#4](https://github.com/Rabenherz112/awesome-sysadmin-data/pull/4#pullrequestreview-4216332281) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
+(8) 👍 Approved [#2357](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2357#pullrequestreview-4216111337) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) ✔️ Closed issue [#2372](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2372) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) ❌ Closed PR [#2405](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) ❌ Closed PR [#2401](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) ❗️ Opened issue [#3](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/3) in [Rabenherz112/awesome-sysadmin-data](https://github.com/Rabenherz112/awesome-sysadmin-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 2:24:28 AM
+Last Updated: Wednesday, May 6th, 2026, 2:23:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
