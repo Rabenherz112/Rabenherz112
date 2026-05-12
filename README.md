@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#790](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(2) ✔️ Closed issue [#66](https://github.com/Rabenherz112/aswg/issues/66) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(3) ❌ Closed PR [#80](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(4) ❌ Closed PR [#2443](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 💪 Opened PR [#80](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(6) ✔️ Closed issue [#73](https://github.com/Rabenherz112/aswg/issues/73) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(7) 💪 Opened PR [#2441](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 💪 Opened PR [#2440](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 💪 Opened PR [#2439](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) ✔️ Closed issue [#2438](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2438) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) ❌ Closed PR [#2436](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) ❌ Closed PR [#2437](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ❌ Closed PR [#794](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(2) ❌ Closed PR [#793](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(3) ❌ Closed PR [#792](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(4) ❌ Closed PR [#791](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(5) 💪 Opened PR [#790](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(6) ✔️ Closed issue [#66](https://github.com/Rabenherz112/aswg/issues/66) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(7) ❌ Closed PR [#80](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(8) ❌ Closed PR [#2443](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 💪 Opened PR [#80](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(10) ✔️ Closed issue [#73](https://github.com/Rabenherz112/aswg/issues/73) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(11) 💪 Opened PR [#2441](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 💪 Opened PR [#2440](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 2:25:40 AM
+Last Updated: Tuesday, May 12th, 2026, 2:26:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
