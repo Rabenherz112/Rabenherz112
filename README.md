@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#812](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
-(2) ❌ Closed PR [#6](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
-(3) 💪 Opened PR [#8](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
-(4) 💪 Opened PR [#2](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
-(5) ❌ Closed PR [#1](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
-(6) 💪 Opened PR [#1](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
-(7) ❌ Closed PR [#159](undefined) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
-(8) 💪 Opened PR [#159](undefined) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
-(9) 💪 Opened PR [#2520](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 👍 Approved [#2451](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2451#pullrequestreview-4378440957) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 👍 Approved [#2477](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2477#pullrequestreview-4378439773) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 👍 Approved [#2517](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2517#pullrequestreview-4374961450) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ❗️ Opened issue [#84](https://github.com/Rabenherz112/aswg/issues/84) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
+(2) 💪 Opened PR [#9](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
+(3) 💪 Opened PR [#812](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(4) ❌ Closed PR [#6](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
+(5) 💪 Opened PR [#8](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
+(6) 💪 Opened PR [#2](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
+(7) ❌ Closed PR [#1](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
+(8) 💪 Opened PR [#1](undefined) in [Rabenherz112/hecat](https://github.com/Rabenherz112/hecat)<br>
+(9) ❌ Closed PR [#159](undefined) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
+(10) 💪 Opened PR [#159](undefined) in [nodiscc/hecat](https://github.com/nodiscc/hecat)<br>
+(11) 💪 Opened PR [#2520](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 👍 Approved [#2451](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2451#pullrequestreview-4378440957) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 31st, 2026, 2:31:07 AM
+Last Updated: Monday, June 1st, 2026, 2:32:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
