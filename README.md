@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 💪 Opened PR [#85](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(2) ❌ Closed PR [#2547](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ❌ Closed PR [#2544](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 👍 Approved [#2533](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2533#pullrequestreview-4412566495) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) 👍 Approved [#2539](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2539#pullrequestreview-4412553925) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) 💪 Opened PR [#11](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
-(7) 👍 Approved [#2542](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2542#pullrequestreview-4409832129) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 🔎 Requested changes in [#2499](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2499#pullrequestreview-4409190773) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) ❌ Closed PR [#2541](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) ❗️ Opened issue [#84](https://github.com/Rabenherz112/aswg/issues/84) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
-(11) 💪 Opened PR [#9](undefined) in [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data)<br>
-(12) 💪 Opened PR [#812](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(1) 👍 Approved [#2509](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2509#pullrequestreview-4438509179) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ❌ Closed PR [#2555](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) 👍 Approved [#2532](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2532#pullrequestreview-4437586755) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(4) ❌ Closed PR [#2553](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(5) ❌ Closed PR [#1823](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(6) ❌ Closed PR [#2341](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(7) ❌ Closed PR [#2466](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(8) 🔎 Requested changes in [#2497](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2497#pullrequestreview-4437450042) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(9) 👍 Approved [#2499](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2499#pullrequestreview-4437444897) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(10) 🔎 Requested changes in [#2509](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2509#pullrequestreview-4437433489) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(11) ❌ Closed PR [#2549](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(12) 💪 Opened PR [#85](undefined) in [Rabenherz112/aswg](https://github.com/Rabenherz112/aswg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 5th, 2026, 2:33:22 AM
+Last Updated: Saturday, June 6th, 2026, 2:31:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
