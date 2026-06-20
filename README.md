@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) 👍 Approved [#2610](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2610#pullrequestreview-4508588018) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(2) ❌ Closed PR [#2608](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(3) ❌ Closed PR [#2597](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(4) 💪 Opened PR [#2596](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(5) ❌ Closed PR [#2567](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(6) ❌ Closed PR [#2568](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(7) 💪 Opened PR [#2595](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(8) 💪 Opened PR [#2594](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(9) 💪 Opened PR [#2593](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(10) 💪 Opened PR [#2592](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(11) 💪 Opened PR [#2591](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-(12) 💪 Opened PR [#2590](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(1) ✔️ Closed issue [#590](https://github.com/awesome-foss/awesome-sysadmin/issues/590) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(2) ✔️ Closed issue [#368](https://github.com/awesome-foss/awesome-sysadmin/issues/368) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(3) ✔️ Closed issue [#405](https://github.com/awesome-foss/awesome-sysadmin/issues/405) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(4) ✔️ Closed issue [#423](https://github.com/awesome-foss/awesome-sysadmin/issues/423) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(5) ✔️ Closed issue [#426](https://github.com/awesome-foss/awesome-sysadmin/issues/426) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(6) ✔️ Closed issue [#554](https://github.com/awesome-foss/awesome-sysadmin/issues/554) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(7) ✔️ Closed issue [#604](https://github.com/awesome-foss/awesome-sysadmin/issues/604) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(8) ✔️ Closed issue [#740](https://github.com/awesome-foss/awesome-sysadmin/issues/740) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(9) ✔️ Closed issue [#611](https://github.com/awesome-foss/awesome-sysadmin/issues/611) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(10) ✔️ Closed issue [#757](https://github.com/awesome-foss/awesome-sysadmin/issues/757) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(11) ❌ Closed PR [#419](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
+(12) ❌ Closed PR [#420](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 19th, 2026, 2:41:05 AM
+Last Updated: Saturday, June 20th, 2026, 2:32:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
