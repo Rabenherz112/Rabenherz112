@@ -100,22 +100,22 @@
 <h2 align="center">Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-(1) ❌ Closed PR [#12](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(2) 💪 Opened PR [#13](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(3) 💪 Opened PR [#12](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(4) 💪 Opened PR [#11](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(5) 💪 Opened PR [#10](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(6) ❌ Closed PR [#9](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(7) ❌ Closed PR [#8](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(8) ❌ Closed PR [#6](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(9) ❌ Closed PR [#4](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(10) ❌ Closed PR [#3](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(11) 💪 Opened PR [#9](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
-(12) 💪 Opened PR [#8](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(1) ❌ Closed PR [#2836](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(2) ❌ Closed PR [#2835](undefined) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+(3) ❌ Closed PR [#12](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(4) 💪 Opened PR [#13](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(5) 💪 Opened PR [#12](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(6) 💪 Opened PR [#11](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(7) 💪 Opened PR [#10](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(8) ❌ Closed PR [#9](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(9) ❌ Closed PR [#8](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(10) ❌ Closed PR [#6](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(11) ❌ Closed PR [#4](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
+(12) ❌ Closed PR [#3](undefined) in [Rabenherz112/awesome-selfhosted-data](https://github.com/Rabenherz112/awesome-selfhosted-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 3rd, 2026, 2:24:54 AM
+Last Updated: Tuesday, August 4th, 2026, 2:24:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <hr>
 <h2 align="center">GitHub Statistics</h2>
