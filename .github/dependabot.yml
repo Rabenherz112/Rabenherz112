@@ -1,0 +1,43 @@
+version: 2
+
+updates:
+  # The workflows pin actions by major tag. Dependabot moves those pins when a
+  # new major lands, which is the only dependency drift this repository can
+  # actually have: the generator itself uses nothing outside the standard
+  # library.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: "05:00"
+      timezone: Etc/UTC
+    commit-message:
+      prefix: "[deps]"
+    groups:
+      # One pull request for the lot, rather than one per action.
+      actions:
+        patterns: ["*"]
+
+  # Nothing to update today, and that is the point of keeping it here: if a Go
+  # dependency is ever added, it is tracked from the first commit rather than
+  # from whenever someone remembers to add this block.
+  - package-ecosystem: gomod
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: "05:00"
+      timezone: Etc/UTC
+    commit-message:
+      prefix: "[deps]"
+    groups:
+      go:
+        patterns: ["*"]
+# Two dependencies are vendored and Dependabot cannot see either of them:
+#
+#   internal/fonts/JetBrainsMono-latin.woff2  the Latin subset from Google Fonts
+#   internal/icons/icons.go                   Simple Icons path data
+#
+# Both are pinned copies rather than fetched at build time, because a card
+# cannot load anything at view time. Refresh them by hand; see docs/generator.md.

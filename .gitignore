@@ -1,0 +1,8 @@
+# Go build output. The generator is run with `go run`, so nothing here is
+# expected, but a stray binary should not be committed.
+/gencards
+/gencards.exe
+
+# Runtime state for the view counter, written by counter/counter.php on the
+# server it is deployed to. Never part of the repository.
+/var/

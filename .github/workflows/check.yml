@@ -1,0 +1,87 @@
+name: Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version: stable
+          cache: true
+
+      - name: gofmt
+        run: |
+          unformatted=$(gofmt -l .)
+          if [ -n "$unformatted" ]; then
+            echo "These files need gofmt:"
+            echo "$unformatted"
+            exit 1
+          fi
+
+      - name: No merge conflict markers
+        # A conflict left in a generated file is invisible in review and only
+        # shows up when the scheduled run fails hours later.
+        run: |
+          if git -c core.quotepath=off grep -nIE '^(<{7}|={7}|>{7})( |$)' -- . ; then
+            echo
+            echo "Merge conflict markers are still in the tree."
+            echo "For anything under cards/ or data/, do not resolve by hand:"
+            echo "  go run ./cmd/gencards -offline"
+            exit 1
+          fi
+
+      - run: go vet ./...
+
+      - run: go test ./...
+
+      - name: The generator runs
+        # A smoke test on the real command, deliberately not a byte comparison
+        # against the committed cards.
+        #
+        # The strict version regenerated every card and diffed it against what
+        # was committed. That only holds while every byte a card embeds comes
+        # from a committed file, and it stopped holding the day the runner's Go
+        # version moved: the header card re-encoded its PNG and the compressor
+        # produced different bytes for identical pixels. The cost was a red
+        # build on a day when nothing was wrong.
+        #
+        # What the cards contain is covered by the tests above, which render
+        # every one of them and parse the result. This step covers the slice
+        # those tests do not: that the binary itself starts, parses its flags,
+        # finds the committed assets and writes a full set of files.
+        #
+        # Committed cards drifting from the generator is not left unguarded.
+        # The scheduled workflow rebuilds and commits them every day, so a
+        # stale card corrects itself within one run.
+        #
+        # Output goes to a temporary directory, the snapshot included: the
+        # generator writes the snapshot back on every run, and this step has no
+        # business leaving the working tree dirty for whatever comes after it.
+        run: |
+          out="$(mktemp -d)"
+          cp data/snapshot.json "$out/snapshot.json"
+          go run ./cmd/gencards -offline -readme "" \
+            -out "$out/cards" -snapshot "$out/snapshot.json"
+          count="$(ls -1 "$out/cards" | wc -l)"
+          echo "generator wrote $count cards"
+          if [ "$count" -eq 0 ]; then
+            echo "The generator produced no cards."
+            exit 1
+          fi
+          git diff --quiet -- cards data || {
+            echo "The generator wrote into the repository; it was told not to."
+            git status --short -- cards data
+            exit 1
+          }

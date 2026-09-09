@@ -1,0 +1,94 @@
+name: Rebuild profile cards
+
+on:
+  schedule:
+    # Daily, a few minutes past the hour so this is not competing with the
+    # flood of jobs everyone else scheduled on the hour. If you change the
+    # cadence, change the `cadence` constant in cmd/gencards/main.go too: it is
+    # printed on the cards.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    # Rebuild when the generator or the artwork changes, so a code change shows
+    # up without waiting for the schedule.
+    branches: [main]
+    paths:
+      - "cmd/**"
+      - "internal/**"
+      - "assets/**"
+      - "go.mod"
+      - ".github/workflows/cards.yml"
+
+# Never let two runs commit on top of each other.
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    name: Generate and commit
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-go@v7
+        with:
+          # Track the current stable toolchain rather than pinning to the
+          # minimum in go.mod, so a scheduled job that runs unattended for
+          # months keeps picking up Go's security patches. The generator uses
+          # nothing outside the standard library, so there is nothing for a
+          # newer toolchain to break.
+          go-version: stable
+          cache: true
+
+      - name: Generate cards
+        env:
+          # Supplied by Actions; used for the activity card's API calls.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # Self-hosted Wakapi. Both the address and the key are secrets:
+          # the instance is on private infrastructure and its hostname is not
+          # something to publish in a repository variable. With either missing,
+          # the two coding cards render from the committed snapshot instead.
+          WAKAPI_URL: ${{ secrets.WAKAPI_URL }}
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+
+          # AniList is a public GraphQL API and needs no credentials.
+          ANILIST_USER: ${{ vars.ANILIST_USER }}
+
+          # Steam. STEAM_ID is optional: without it the vanity name is
+          # resolved through the API instead.
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+          STEAM_VANITY: ${{ vars.STEAM_VANITY }}
+
+          # Self-hosted Kavita. Both are secrets: the instance is on private
+          # infrastructure and its address is not something to publish in a
+          # repository variable. The statistics endpoint is admin-only, so the
+          # key has to belong to an admin account.
+          KAVITA_URL: ${{ secrets.KAVITA_URL }}
+          KAVITA_API_KEY: ${{ secrets.KAVITA_API_KEY }}
+        run: go run ./cmd/gencards
+
+      - name: Commit if anything changed
+        run: |
+          set -euo pipefail
+          git config user.name  "Ravenhub"
+          git config user.email "support@theravenhub.com"
+
+          git add cards data/snapshot.json README.md
+
+          # A run where every source returned what it returned yesterday
+          # produces no diff, and there is nothing worth a commit.
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "[SCHEDULED] Rebuild profile cards"
+          git push

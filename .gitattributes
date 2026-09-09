@@ -1,0 +1,25 @@
+# The generator writes LF and CI regenerates the cards to compare them against
+# what is committed. Without this, a Windows checkout would rewrite them as
+# CRLF and every comparison would come out dirty.
+* text=auto eol=lf
+
+# Binary, never touch.
+*.png binary
+*.woff2 binary
+
+# Generated. Collapse them in diffs and keep them out of language statistics.
+cards/*.svg linguist-generated=true
+internal/icons/icons.go linguist-generated=true
+
+# Never textually merge the generated output.
+#
+# Every run of the generator rewrites all of it, so two branches will always
+# disagree about it and git will always find a conflict. Left to merge, it
+# splices <<<<<<< markers into an SVG and a JSON file, which produces a broken
+# snapshot and fourteen broken cards from a merge that touched no source at all.
+#
+# Unsetting merge makes git keep the current branch's copy and report the
+# conflict without editing the file. The fix is then always the same: run the
+# generator and commit what it produces.
+cards/*.svg -merge
+data/snapshot.json -merge
