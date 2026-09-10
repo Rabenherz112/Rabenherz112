@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-09T19:26:49Z",
+  "generated_at": "2026-09-10T08:57:04Z",
   "languages": {
-    "fetched_at": "2026-09-09T19:26:50Z",
+    "fetched_at": "2026-09-10T08:57:05Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 28.77
+        "pct": 28.79
       },
       {
         "name": "Python",
-        "pct": 16.34
+        "pct": 16.33
       },
       {
         "name": "Markdown",
@@ -26,14 +26,10 @@
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-09T19:26:50Z",
-    "total_seconds": 114149,
+    "fetched_at": "2026-09-10T08:57:05Z",
+    "total_seconds": 111748,
     "projects": 20,
     "days": [
-      {
-        "date": "2026-08-27",
-        "seconds": 2682
-      },
       {
         "date": "2026-08-28",
         "seconds": 474
@@ -76,7 +72,7 @@
       },
       {
         "date": "2026-09-07",
-        "seconds": 5051
+        "seconds": 5332
       },
       {
         "date": "2026-09-08",
@@ -85,12 +81,30 @@
       {
         "date": "2026-09-09",
         "seconds": 4744
+      },
+      {
+        "date": "2026-09-10",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-09T19:26:50Z",
+    "fetched_at": "2026-09-10T08:57:04Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3063",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-09-10T06:24:30Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3061",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-09-09T09:09:47Z"
+      },
       {
         "verb": "closed",
         "num": "#3058",
@@ -146,20 +160,6 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-09-06T09:07:45Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3043",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3043",
-        "when": "2026-09-06T08:47:38Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3014",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-09-05T19:08:06Z"
       }
     ]
   },
@@ -191,18 +191,18 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-09T19:26:50Z",
+    "fetched_at": "2026-09-10T08:57:05Z",
     "owned_games": 510,
     "recent": [
       {
         "name": "Satisfactory",
-        "two_week_minutes": 823,
+        "two_week_minutes": 768,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVr+Mj+pT1H4Ofs03/AMYPAtn4tufFdxoFnqDyGys7C0jlbyg5RXkMmfnOzOAOBX9F5fwVllGhCONhz1OurX5H4fj+LcwrV5/VZ8kOmi/Uf8Yv2ZtQ+EHgW98W2niu41+203ZJe2d/aRwkwZAcxmPHzjOcEc0ZhwXllehNYKHJU6e8399yMFxZmVGtD61Pnh10X6HldfzofuYUAfTHwR0XUfH/AOwvpXh7w/qi6XrV7o9xZQXwneP7NOJZAcunKEH0r+0F/Ofyq/5DhfjfqfxH+Ev7MUPgvxFoVv4m097KHSrvxRbao80kblxiSZJE3nJGN2etVU5HzgjyGv4tP6qCgDtPgh4a8QeDv2e5/E/gPxbrq+J9Xspr9NBleGSxkvPMI+RJB8mQnPNf21RoWow5T+Tqtf8AfT5zv/if4x1+/wD2OdZPjD5fFEmiRnUk2IMT+cmeBx+VFWn+5nMVOp++hA8Mr+JT+sgoA5nwJ8S/iN4G8L6XocPguG8h0+MxiRtUjTzBvJzjt9+v6spcd5HRpQh7b8J/5H87VeCs1nOc+T8V/mWPHPxX+I/jvwfqvh6XwRDZxalD5BuBqkbmMbwc4zz0qK3HeR1Kc4e2/Cf+QYfgvNaNaE+T8V/mb1fysf0Sf//Z",
         "icon_mime": "image/jpeg"
       },
       {
         "name": "Liar's Bar",
-        "two_week_minutes": 53,
+        "two_week_minutes": 99,
         "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQMI/8QAJxAAAQIEBAYDAAAAAAAAAAAAAQACAwQFEQYSgcEVITFBcXMiM2H/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQRBRIh/9oADAMBAAIRAxEAPwDnBOKRSzPNi2flyMzc+6UDrqq/CQ+Ez69whvcomxLeKx0vvCOPJKTEMw3kLUi6j9zvKETVOxIblCuQJkddVY4QF2TPr3CjtE9w/VuHOeSzOHNtbW+yTkKWTQmhxF6U5Aaw6EX1NhbFd5QKcVyfhzsQOhQWwrCxDe/6k4TKt9fZLmBBaeh2J//Z",
         "icon_mime": "image/jpeg"
       },
