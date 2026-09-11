@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-09-10T08:57:04Z",
+  "generated_at": "2026-09-11T08:55:18Z",
   "languages": {
-    "fetched_at": "2026-09-10T08:57:05Z",
+    "fetched_at": "2026-09-11T08:55:19Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 28.79
+        "pct": 28.69
       },
       {
         "name": "Python",
-        "pct": 16.33
+        "pct": 16.27
       },
       {
         "name": "Markdown",
-        "pct": 13.7
+        "pct": 13.71
       },
       {
         "name": "Powershell",
-        "pct": 8.42
+        "pct": 8.6
       },
       {
         "name": "INI",
-        "pct": 4.54
+        "pct": 4.52
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-10T08:57:05Z",
-    "total_seconds": 111748,
-    "projects": 20,
+    "fetched_at": "2026-09-11T08:55:20Z",
+    "total_seconds": 116178,
+    "projects": 21,
     "days": [
-      {
-        "date": "2026-08-28",
-        "seconds": 474
-      },
       {
         "date": "2026-08-29",
         "seconds": 2420
@@ -84,13 +80,59 @@
       },
       {
         "date": "2026-09-10",
-        "seconds": 0
+        "seconds": 4880
+      },
+      {
+        "date": "2026-09-11",
+        "seconds": 24
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-10T08:57:04Z",
+    "fetched_at": "2026-09-11T08:55:19Z",
     "items": [
+      {
+        "verb": "opened",
+        "num": "#3065",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-09-10T11:57:54Z"
+      },
+      {
+        "verb": "opened",
+        "num": "#3064",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-09-10T11:56:21Z"
+      },
+      {
+        "verb": "approved",
+        "num": "#2916",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2916#pullrequestreview-5166692381",
+        "when": "2026-09-10T11:49:15Z"
+      },
+      {
+        "verb": "approved",
+        "num": "#2998",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2998#pullrequestreview-5166669150",
+        "when": "2026-09-10T11:47:04Z"
+      },
+      {
+        "verb": "approved",
+        "num": "#3048",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3048#pullrequestreview-5166633793",
+        "when": "2026-09-10T11:44:13Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3052",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3052",
+        "when": "2026-09-10T09:01:34Z"
+      },
       {
         "verb": "closed",
         "num": "#3063",
@@ -118,48 +160,6 @@
         "repo": "awesome-foss/awesome-sysadmin-data",
         "url": "",
         "when": "2026-09-07T20:27:40Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3053",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3053",
-        "when": "2026-09-07T17:57:28Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3047",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3047",
-        "when": "2026-09-06T16:32:41Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3049",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-09-06T14:26:55Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3046",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-09-06T09:38:37Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3045",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-09-06T09:10:56Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3044",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-09-06T09:07:45Z"
       }
     ]
   },
@@ -191,12 +191,12 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-10T08:57:05Z",
+    "fetched_at": "2026-09-11T08:55:20Z",
     "owned_games": 510,
     "recent": [
       {
         "name": "Satisfactory",
-        "two_week_minutes": 768,
+        "two_week_minutes": 747,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVr+Mj+pT1H4Ofs03/AMYPAtn4tufFdxoFnqDyGys7C0jlbyg5RXkMmfnOzOAOBX9F5fwVllGhCONhz1OurX5H4fj+LcwrV5/VZ8kOmi/Uf8Yv2ZtQ+EHgW98W2niu41+203ZJe2d/aRwkwZAcxmPHzjOcEc0ZhwXllehNYKHJU6e8399yMFxZmVGtD61Pnh10X6HldfzofuYUAfTHwR0XUfH/AOwvpXh7w/qi6XrV7o9xZQXwneP7NOJZAcunKEH0r+0F/Ofyq/5DhfjfqfxH+Ev7MUPgvxFoVv4m097KHSrvxRbao80kblxiSZJE3nJGN2etVU5HzgjyGv4tP6qCgDtPgh4a8QeDv2e5/E/gPxbrq+J9Xspr9NBleGSxkvPMI+RJB8mQnPNf21RoWow5T+Tqtf8AfT5zv/if4x1+/wD2OdZPjD5fFEmiRnUk2IMT+cmeBx+VFWn+5nMVOp++hA8Mr+JT+sgoA5nwJ8S/iN4G8L6XocPguG8h0+MxiRtUjTzBvJzjt9+v6spcd5HRpQh7b8J/5H87VeCs1nOc+T8V/mWPHPxX+I/jvwfqvh6XwRDZxalD5BuBqkbmMbwc4zz0qK3HeR1Kc4e2/Cf+QYfgvNaNaE+T8V/mb1fysf0Sf//Z",
         "icon_mime": "image/jpeg"
       },
