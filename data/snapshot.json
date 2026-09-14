@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-09-13T09:33:01Z",
+  "generated_at": "2026-09-14T09:52:05Z",
   "languages": {
-    "fetched_at": "2026-09-13T09:33:02Z",
+    "fetched_at": "2026-09-14T09:52:06Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 28.58
+        "pct": 28.34
       },
       {
         "name": "Python",
-        "pct": 16.21
+        "pct": 16.33
       },
       {
         "name": "Markdown",
-        "pct": 13.72
+        "pct": 13.85
       },
       {
         "name": "Powershell",
-        "pct": 8.81
+        "pct": 8.92
       },
       {
         "name": "INI",
-        "pct": 4.51
+        "pct": 4.53
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-13T09:33:03Z",
-    "total_seconds": 98075,
-    "projects": 19,
+    "fetched_at": "2026-09-14T09:52:06Z",
+    "total_seconds": 82607,
+    "projects": 17,
     "days": [
-      {
-        "date": "2026-08-31",
-        "seconds": 29995
-      },
       {
         "date": "2026-09-01",
         "seconds": 13729
@@ -80,17 +76,28 @@
       },
       {
         "date": "2026-09-12",
-        "seconds": 0
+        "seconds": 6696
       },
       {
         "date": "2026-09-13",
-        "seconds": 0
+        "seconds": 5936
+      },
+      {
+        "date": "2026-09-14",
+        "seconds": 1895
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-13T09:33:02Z",
+    "fetched_at": "2026-09-14T09:52:06Z",
     "items": [
+      {
+        "verb": "changes",
+        "num": "#49",
+        "repo": "awesome-foss/awesome-sysadmin-data",
+        "url": "https://github.com/awesome-foss/awesome-sysadmin-data/pull/49#pullrequestreview-5190553113",
+        "when": "2026-09-13T11:30:58Z"
+      },
       {
         "verb": "closed",
         "num": "#3073",
@@ -153,20 +160,13 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2916#pullrequestreview-5166692381",
         "when": "2026-09-10T11:49:15Z"
-      },
-      {
-        "verb": "approved",
-        "num": "#2998",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2998#pullrequestreview-5166669150",
-        "when": "2026-09-10T11:47:04Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-09-13T09:33:02Z",
-    "series_tracked": 294,
-    "chapters_read": 18327,
+    "fetched_at": "2026-09-14T09:52:05Z",
+    "series_tracked": 297,
+    "chapters_read": 18513,
     "volumes_read": 23,
     "mean_score": 8.667,
     "reading": [
@@ -191,12 +191,12 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-13T09:33:02Z",
+    "fetched_at": "2026-09-14T09:52:05Z",
     "owned_games": 512,
     "recent": [
       {
         "name": "Satisfactory",
-        "two_week_minutes": 652,
+        "two_week_minutes": 627,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVr+Mj+pT1H4Ofs03/AMYPAtn4tufFdxoFnqDyGys7C0jlbyg5RXkMmfnOzOAOBX9F5fwVllGhCONhz1OurX5H4fj+LcwrV5/VZ8kOmi/Uf8Yv2ZtQ+EHgW98W2niu41+203ZJe2d/aRwkwZAcxmPHzjOcEc0ZhwXllehNYKHJU6e8399yMFxZmVGtD61Pnh10X6HldfzofuYUAfTHwR0XUfH/AOwvpXh7w/qi6XrV7o9xZQXwneP7NOJZAcunKEH0r+0F/Ofyq/5DhfjfqfxH+Ev7MUPgvxFoVv4m097KHSrvxRbao80kblxiSZJE3nJGN2etVU5HzgjyGv4tP6qCgDtPgh4a8QeDv2e5/E/gPxbrq+J9Xspr9NBleGSxkvPMI+RJB8mQnPNf21RoWow5T+Tqtf8AfT5zv/if4x1+/wD2OdZPjD5fFEmiRnUk2IMT+cmeBx+VFWn+5nMVOp++hA8Mr+JT+sgoA5nwJ8S/iN4G8L6XocPguG8h0+MxiRtUjTzBvJzjt9+v6spcd5HRpQh7b8J/5H87VeCs1nOc+T8V/mWPHPxX+I/jvwfqvh6XwRDZxalD5BuBqkbmMbwc4zz0qK3HeR1Kc4e2/Cf+QYfgvNaNaE+T8V/mb1fysf0Sf//Z",
         "icon_mime": "image/jpeg"
       },
