@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-09-17T09:26:45Z",
+  "generated_at": "2026-09-18T09:00:09Z",
   "languages": {
-    "fetched_at": "2026-09-17T09:26:46Z",
+    "fetched_at": "2026-09-18T09:00:10Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 28.28
+        "pct": 28.33
       },
       {
         "name": "Python",
-        "pct": 16.62
+        "pct": 16.64
       },
       {
         "name": "Markdown",
-        "pct": 13.74
+        "pct": 13.76
       },
       {
         "name": "Powershell",
-        "pct": 8.92
+        "pct": 8.94
       },
       {
         "name": "INI",
-        "pct": 4.17
+        "pct": 4.16
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-17T09:26:47Z",
-    "total_seconds": 65302,
-    "projects": 12,
+    "fetched_at": "2026-09-18T09:00:10Z",
+    "total_seconds": 53966,
+    "projects": 10,
     "days": [
-      {
-        "date": "2026-09-04",
-        "seconds": 11336
-      },
       {
         "date": "2026-09-05",
         "seconds": 2225
@@ -85,12 +81,44 @@
       {
         "date": "2026-09-17",
         "seconds": 0
+      },
+      {
+        "date": "2026-09-18",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-17T09:26:47Z",
+    "fetched_at": "2026-09-18T09:00:10Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3099",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3099",
+        "when": "2026-09-17T22:29:35Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3098",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-09-17T15:09:08Z"
+      },
+      {
+        "verb": "approved",
+        "num": "#3096",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3096#pullrequestreview-5235051195",
+        "when": "2026-09-17T11:33:54Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#92",
+        "repo": "awesome-foss/awesome-sysadmin-data",
+        "url": "",
+        "when": "2026-09-17T11:30:40Z"
+      },
       {
         "verb": "closed",
         "num": "#3095",
@@ -132,41 +160,13 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1369",
         "when": "2026-09-15T21:04:51Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#1579",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1579",
-        "when": "2026-09-15T21:02:49Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#1772",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1772",
-        "when": "2026-09-15T21:01:28Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#1902",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1902",
-        "when": "2026-09-15T20:59:46Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#1972",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1972",
-        "when": "2026-09-15T20:58:42Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-09-17T09:26:46Z",
+    "fetched_at": "2026-09-18T09:00:10Z",
     "series_tracked": 297,
-    "chapters_read": 18532,
+    "chapters_read": 18589,
     "volumes_read": 23,
     "mean_score": 8.667,
     "reading": [
@@ -191,18 +191,18 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-17T09:26:46Z",
+    "fetched_at": "2026-09-18T09:00:10Z",
     "owned_games": 512,
     "recent": [
       {
         "name": "Sniper Elite 5",
-        "two_week_minutes": 389,
+        "two_week_minutes": 564,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wAALCAAgACABAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AON+Dn/BPr4T+PfCvwbubm98TakPFunz3uqeItNuoBp9tMltLI1pt2l45EZV+8MMA/IIwOl0/wD4Jd/Duw0qxh1u+1/+11tNKe7MF3GI2luNSa1lZAYzhTGAy8nk55rfl/4JXfCW18X3cbXPi14E0q+u4/Dsuo2kV87W9wkSSrKyhBFKrZXftxkZI5A8r+Kn7Anwx8Ofsvaj8RbC68S6DqltoratFcapeW01k832gxpYkKoJlYYwUJGeea9b+F+m/GDQ/BfwZ0Hw5r/wx0P+19Fk1W30eLS7tJrxH02RTc3bKcNII1K5UjLEEgiq/wAB/Hfxx+LXgT4aXI8VfD3TW8Q240fS11m1uzc3L6PciVQxR8M7kFjjqqnoa4LU7Txz+zxafE34+3XjX4d+M7bxjNe6TPo91aXl1bX4W6Amit1JAChsjDtjAI61mSfEb4gfEf8AYj1bxNr2o+AvDvgC50668P2XhybT7sPM0E3nRtAVYpHKrtsQkgcYINexfCX496zqPgz4LanY/C74l61pnhjRV0+SLTPsT6bd5s5Ldp4/n3eZlwASwAUHK5ri9K8ZX/wb1D4JWunfBn4iweG/A/iPVb9V1CCCW4mivEdI13I+0Mrycs21RxzXLahrXjP4hfseal8I9O+GnxGg1qDVb65MlrBbpp1yZb9p0WbeS7qozgx4G4dSKb4Nv/FnwB/Y98X+GtU+G/xEm1DUNFudNu7fXLq3/wCEasvNkZjdxxltyyAEcd2HXmviT4Z/Hv4hfB2Rm8HeLdS0ONiS1vDLugYnuYmyhPvivcPBH/BR74p6dKLLxbd2ni7RrieM3X2q1WO5WIOrMI3iKDPy5AYEZp/jr/go98T9RuJLLwfc2nhHRYLmVrQ21qsl00TOzASNIXGTuyQoAz04FeHfEz4/fET4xMv/AAmPi3UtbhUgrbSy7IFI6ERLhM++K//Z",
         "icon_mime": "image/jpeg"
       },
       {
         "name": "Satisfactory",
-        "two_week_minutes": 285,
+        "two_week_minutes": 194,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVr+Mj+pT1H4Ofs03/AMYPAtn4tufFdxoFnqDyGys7C0jlbyg5RXkMmfnOzOAOBX9F5fwVllGhCONhz1OurX5H4fj+LcwrV5/VZ8kOmi/Uf8Yv2ZtQ+EHgW98W2niu41+203ZJe2d/aRwkwZAcxmPHzjOcEc0ZhwXllehNYKHJU6e8399yMFxZmVGtD61Pnh10X6HldfzofuYUAfTHwR0XUfH/AOwvpXh7w/qi6XrV7o9xZQXwneP7NOJZAcunKEH0r+0F/Ofyq/5DhfjfqfxH+Ev7MUPgvxFoVv4m097KHSrvxRbao80kblxiSZJE3nJGN2etVU5HzgjyGv4tP6qCgDtPgh4a8QeDv2e5/E/gPxbrq+J9Xspr9NBleGSxkvPMI+RJB8mQnPNf21RoWow5T+Tqtf8AfT5zv/if4x1+/wD2OdZPjD5fFEmiRnUk2IMT+cmeBx+VFWn+5nMVOp++hA8Mr+JT+sgoA5nwJ8S/iN4G8L6XocPguG8h0+MxiRtUjTzBvJzjt9+v6spcd5HRpQh7b8J/5H87VeCs1nOc+T8V/mWPHPxX+I/jvwfqvh6XwRDZxalD5BuBqkbmMbwc4zz0qK3HeR1Kc4e2/Cf+QYfgvNaNaE+T8V/mb1fysf0Sf//Z",
         "icon_mime": "image/jpeg"
       },
