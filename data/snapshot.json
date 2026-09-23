@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-09-22T09:18:15Z",
+  "generated_at": "2026-09-23T09:18:44Z",
   "languages": {
-    "fetched_at": "2026-09-22T09:18:17Z",
+    "fetched_at": "2026-09-23T09:18:46Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 28.51
+        "pct": 27.61
       },
       {
         "name": "Python",
-        "pct": 16.67
+        "pct": 17.56
       },
       {
         "name": "Markdown",
-        "pct": 13.99
+        "pct": 14.4
       },
       {
         "name": "Powershell",
-        "pct": 9.25
+        "pct": 9.16
       },
       {
-        "name": "INI",
-        "pct": 4.18
+        "name": "Javascript",
+        "pct": 4.19
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-22T09:18:17Z",
-    "total_seconds": 40354,
-    "projects": 9,
+    "fetched_at": "2026-09-23T09:18:46Z",
+    "total_seconds": 80510,
+    "projects": 16,
     "days": [
-      {
-        "date": "2026-09-09",
-        "seconds": 4744
-      },
       {
         "date": "2026-09-10",
         "seconds": 8395
@@ -44,7 +40,7 @@
       },
       {
         "date": "2026-09-12",
-        "seconds": 6785
+        "seconds": 13481
       },
       {
         "date": "2026-09-13",
@@ -52,11 +48,11 @@
       },
       {
         "date": "2026-09-14",
-        "seconds": 8153
+        "seconds": 8647
       },
       {
         "date": "2026-09-15",
-        "seconds": 1369
+        "seconds": 9499
       },
       {
         "date": "2026-09-16",
@@ -68,7 +64,7 @@
       },
       {
         "date": "2026-09-18",
-        "seconds": 0
+        "seconds": 9188
       },
       {
         "date": "2026-09-19",
@@ -76,20 +72,24 @@
       },
       {
         "date": "2026-09-20",
-        "seconds": 0
+        "seconds": 4761
       },
       {
         "date": "2026-09-21",
-        "seconds": 0
+        "seconds": 2231
       },
       {
         "date": "2026-09-22",
-        "seconds": 0
+        "seconds": 10744
+      },
+      {
+        "date": "2026-09-23",
+        "seconds": 2656
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-22T09:18:16Z",
+    "fetched_at": "2026-09-23T09:18:44Z",
     "items": [
       {
         "verb": "closed",
@@ -164,9 +164,9 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-09-22T09:18:15Z",
+    "fetched_at": "2026-09-23T09:18:44Z",
     "series_tracked": 297,
-    "chapters_read": 18546,
+    "chapters_read": 18578,
     "volumes_read": 23,
     "mean_score": 8.667,
     "reading": [
@@ -191,25 +191,25 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-22T09:18:16Z",
+    "fetched_at": "2026-09-23T09:18:44Z",
     "owned_games": 512,
     "recent": [
       {
         "name": "Sniper Elite 5",
-        "two_week_minutes": 690,
+        "two_week_minutes": 853,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wAALCAAgACABAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AON+Dn/BPr4T+PfCvwbubm98TakPFunz3uqeItNuoBp9tMltLI1pt2l45EZV+8MMA/IIwOl0/wD4Jd/Duw0qxh1u+1/+11tNKe7MF3GI2luNSa1lZAYzhTGAy8nk55rfl/4JXfCW18X3cbXPi14E0q+u4/Dsuo2kV87W9wkSSrKyhBFKrZXftxkZI5A8r+Kn7Anwx8Ofsvaj8RbC68S6DqltoratFcapeW01k832gxpYkKoJlYYwUJGeea9b+F+m/GDQ/BfwZ0Hw5r/wx0P+19Fk1W30eLS7tJrxH02RTc3bKcNII1K5UjLEEgiq/wAB/Hfxx+LXgT4aXI8VfD3TW8Q240fS11m1uzc3L6PciVQxR8M7kFjjqqnoa4LU7Txz+zxafE34+3XjX4d+M7bxjNe6TPo91aXl1bX4W6Amit1JAChsjDtjAI61mSfEb4gfEf8AYj1bxNr2o+AvDvgC50668P2XhybT7sPM0E3nRtAVYpHKrtsQkgcYINexfCX496zqPgz4LanY/C74l61pnhjRV0+SLTPsT6bd5s5Ldp4/n3eZlwASwAUHK5ri9K8ZX/wb1D4JWunfBn4iweG/A/iPVb9V1CCCW4mivEdI13I+0Mrycs21RxzXLahrXjP4hfseal8I9O+GnxGg1qDVb65MlrBbpp1yZb9p0WbeS7qozgx4G4dSKb4Nv/FnwB/Y98X+GtU+G/xEm1DUNFudNu7fXLq3/wCEasvNkZjdxxltyyAEcd2HXmviT4Z/Hv4hfB2Rm8HeLdS0ONiS1vDLugYnuYmyhPvivcPBH/BR74p6dKLLxbd2ni7RrieM3X2q1WO5WIOrMI3iKDPy5AYEZp/jr/go98T9RuJLLwfc2nhHRYLmVrQ21qsl00TOzASNIXGTuyQoAz04FeHfEz4/fET4xMv/AAmPi3UtbhUgrbSy7IFI6ERLhM++K//Z",
         "icon_mime": "image/jpeg"
       },
       {
         "name": "Liar's Bar",
-        "two_week_minutes": 99,
+        "two_week_minutes": 45,
         "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQMI/8QAJxAAAQIEBAYDAAAAAAAAAAAAAQACAwQFEQYSgcEVITFBcXMiM2H/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQRBRIh/9oADAMBAAIRAxEAPwDnBOKRSzPNi2flyMzc+6UDrqq/CQ+Ez69whvcomxLeKx0vvCOPJKTEMw3kLUi6j9zvKETVOxIblCuQJkddVY4QF2TPr3CjtE9w/VuHOeSzOHNtbW+yTkKWTQmhxF6U5Aaw6EX1NhbFd5QKcVyfhzsQOhQWwrCxDe/6k4TKt9fZLmBBaeh2J//Z",
         "icon_mime": "image/jpeg"
       },
       {
-        "name": "Satisfactory",
-        "two_week_minutes": 48,
-        "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVr+Mj+pT1H4Ofs03/AMYPAtn4tufFdxoFnqDyGys7C0jlbyg5RXkMmfnOzOAOBX9F5fwVllGhCONhz1OurX5H4fj+LcwrV5/VZ8kOmi/Uf8Yv2ZtQ+EHgW98W2niu41+203ZJe2d/aRwkwZAcxmPHzjOcEc0ZhwXllehNYKHJU6e8399yMFxZmVGtD61Pnh10X6HldfzofuYUAfTHwR0XUfH/AOwvpXh7w/qi6XrV7o9xZQXwneP7NOJZAcunKEH0r+0F/Ofyq/5DhfjfqfxH+Ev7MUPgvxFoVv4m097KHSrvxRbao80kblxiSZJE3nJGN2etVU5HzgjyGv4tP6qCgDtPgh4a8QeDv2e5/E/gPxbrq+J9Xspr9NBleGSxkvPMI+RJB8mQnPNf21RoWow5T+Tqtf8AfT5zv/if4x1+/wD2OdZPjD5fFEmiRnUk2IMT+cmeBx+VFWn+5nMVOp++hA8Mr+JT+sgoA5nwJ8S/iN4G8L6XocPguG8h0+MxiRtUjTzBvJzjt9+v6spcd5HRpQh7b8J/5H87VeCs1nOc+T8V/mWPHPxX+I/jvwfqvh6XwRDZxalD5BuBqkbmMbwc4zz0qK3HeR1Kc4e2/Cf+QYfgvNaNaE+T8V/mb1fysf0Sf//Z",
+        "name": "Gladiabots",
+        "two_week_minutes": 1,
+        "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/wAALCAAgACABAREA/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAAL/xAArEAABAwMCBgEDBQAAAAAAAAABAgMEBQYRABIHEyExQVEiFGGCCBUjocH/2gAIAQEAAD8Al2nRXJ0+NEYbcddfcS0hDadylEnAAHk6peg/pliKjq/ca6+uUpf8ZRH2oSgjspJ67s+jgffQ7xl4HMWrbTFSoLxUiE2r65UlZ3O/L4qSMYB64x0B6ee6B01+INCpNsWFasOC6wqqyk/WzJaCFKCykFKAodcDJH4586KIrN1W7w1oN+zbtmyua8UsQZAU6EgqUnO9SuxSn1513dXG1+tWtIYkW62pMlkxXnlyDyiSCPiMZz579NDPD636PcXCe640pyKiq055Mxh8gBScoxt3dyk7FDHs576D6/XotTRa7cjc8xCjNtSUDKSdqsEZ97QOv31SF/3hT6zw/vK33KM1Gp9IgxzFdbeyle9BUyUp2jbgpT5PrUj853kcjmL5O7fsz8d3bOPeiSwq0ikSqkh9YSxLhOtHd23BJUn+xj8tC+mTUr6gS+FgoyWpCa26GI0l0gbFssqUW8dc5AIHb/NLbW1//9k=",
         "icon_mime": "image/jpeg"
       }
     ]
