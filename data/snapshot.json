@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-09-23T09:18:44Z",
+  "generated_at": "2026-09-24T09:18:40Z",
   "languages": {
-    "fetched_at": "2026-09-23T09:18:46Z",
+    "fetched_at": "2026-09-24T09:18:42Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 27.61
+        "pct": 27.71
       },
       {
         "name": "Python",
-        "pct": 17.56
+        "pct": 17.39
       },
       {
         "name": "Markdown",
-        "pct": 14.4
+        "pct": 14.44
       },
       {
         "name": "Powershell",
-        "pct": 9.16
+        "pct": 9.04
       },
       {
         "name": "Javascript",
-        "pct": 4.19
+        "pct": 4.1
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-09-23T09:18:46Z",
-    "total_seconds": 80510,
-    "projects": 16,
+    "fetched_at": "2026-09-24T09:18:42Z",
+    "total_seconds": 71935,
+    "projects": 15,
     "days": [
-      {
-        "date": "2026-09-10",
-        "seconds": 8395
-      },
       {
         "date": "2026-09-11",
         "seconds": 4972
@@ -44,7 +40,7 @@
       },
       {
         "date": "2026-09-13",
-        "seconds": 5936
+        "seconds": 7186
       },
       {
         "date": "2026-09-14",
@@ -56,7 +52,7 @@
       },
       {
         "date": "2026-09-16",
-        "seconds": 0
+        "seconds": 41
       },
       {
         "date": "2026-09-17",
@@ -80,16 +76,20 @@
       },
       {
         "date": "2026-09-22",
-        "seconds": 10744
+        "seconds": 8820
       },
       {
         "date": "2026-09-23",
-        "seconds": 2656
+        "seconds": 3109
+      },
+      {
+        "date": "2026-09-24",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-09-23T09:18:44Z",
+    "fetched_at": "2026-09-24T09:18:41Z",
     "items": [
       {
         "verb": "closed",
@@ -164,7 +164,7 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-09-23T09:18:44Z",
+    "fetched_at": "2026-09-24T09:18:40Z",
     "series_tracked": 297,
     "chapters_read": 18578,
     "volumes_read": 23,
@@ -191,19 +191,13 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-09-23T09:18:44Z",
+    "fetched_at": "2026-09-24T09:18:41Z",
     "owned_games": 512,
     "recent": [
       {
         "name": "Sniper Elite 5",
         "two_week_minutes": 853,
         "icon": "/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wAALCAAgACABAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AON+Dn/BPr4T+PfCvwbubm98TakPFunz3uqeItNuoBp9tMltLI1pt2l45EZV+8MMA/IIwOl0/wD4Jd/Duw0qxh1u+1/+11tNKe7MF3GI2luNSa1lZAYzhTGAy8nk55rfl/4JXfCW18X3cbXPi14E0q+u4/Dsuo2kV87W9wkSSrKyhBFKrZXftxkZI5A8r+Kn7Anwx8Ofsvaj8RbC68S6DqltoratFcapeW01k832gxpYkKoJlYYwUJGeea9b+F+m/GDQ/BfwZ0Hw5r/wx0P+19Fk1W30eLS7tJrxH02RTc3bKcNII1K5UjLEEgiq/wAB/Hfxx+LXgT4aXI8VfD3TW8Q240fS11m1uzc3L6PciVQxR8M7kFjjqqnoa4LU7Txz+zxafE34+3XjX4d+M7bxjNe6TPo91aXl1bX4W6Amit1JAChsjDtjAI61mSfEb4gfEf8AYj1bxNr2o+AvDvgC50668P2XhybT7sPM0E3nRtAVYpHKrtsQkgcYINexfCX496zqPgz4LanY/C74l61pnhjRV0+SLTPsT6bd5s5Ldp4/n3eZlwASwAUHK5ri9K8ZX/wb1D4JWunfBn4iweG/A/iPVb9V1CCCW4mivEdI13I+0Mrycs21RxzXLahrXjP4hfseal8I9O+GnxGg1qDVb65MlrBbpp1yZb9p0WbeS7qozgx4G4dSKb4Nv/FnwB/Y98X+GtU+G/xEm1DUNFudNu7fXLq3/wCEasvNkZjdxxltyyAEcd2HXmviT4Z/Hv4hfB2Rm8HeLdS0ONiS1vDLugYnuYmyhPvivcPBH/BR74p6dKLLxbd2ni7RrieM3X2q1WO5WIOrMI3iKDPy5AYEZp/jr/go98T9RuJLLwfc2nhHRYLmVrQ21qsl00TOzASNIXGTuyQoAz04FeHfEz4/fET4xMv/AAmPi3UtbhUgrbSy7IFI6ERLhM++K//Z",
-        "icon_mime": "image/jpeg"
-      },
-      {
-        "name": "Liar's Bar",
-        "two_week_minutes": 45,
-        "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQMI/8QAJxAAAQIEBAYDAAAAAAAAAAAAAQACAwQFEQYSgcEVITFBcXMiM2H/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQRBRIh/9oADAMBAAIRAxEAPwDnBOKRSzPNi2flyMzc+6UDrqq/CQ+Ez69whvcomxLeKx0vvCOPJKTEMw3kLUi6j9zvKETVOxIblCuQJkddVY4QF2TPr3CjtE9w/VuHOeSzOHNtbW+yTkKWTQmhxF6U5Aaw6EX1NhbFd5QKcVyfhzsQOhQWwrCxDe/6k4TKt9fZLmBBaeh2J//Z",
         "icon_mime": "image/jpeg"
       },
       {
