@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-10-10T10:36:28Z",
+  "generated_at": "2026-10-11T10:49:22Z",
   "languages": {
-    "fetched_at": "2026-10-10T10:36:30Z",
+    "fetched_at": "2026-10-11T10:49:24Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 27.53
+        "pct": 27.34
       },
       {
         "name": "Python",
-        "pct": 17.8
+        "pct": 18.09
       },
       {
         "name": "Markdown",
-        "pct": 15.02
+        "pct": 14.9
       },
       {
         "name": "Powershell",
-        "pct": 8.53
+        "pct": 8.31
       },
       {
         "name": "Javascript",
-        "pct": 4.77
+        "pct": 4.86
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-10-10T10:36:30Z",
-    "total_seconds": 53904,
+    "fetched_at": "2026-10-11T10:49:24Z",
+    "total_seconds": 53065,
     "projects": 13,
     "days": [
-      {
-        "date": "2026-09-27",
-        "seconds": 323
-      },
       {
         "date": "2026-09-28",
         "seconds": 14411
@@ -44,7 +40,7 @@
       },
       {
         "date": "2026-09-30",
-        "seconds": 1809
+        "seconds": 1729
       },
       {
         "date": "2026-10-01",
@@ -60,7 +56,7 @@
       },
       {
         "date": "2026-10-04",
-        "seconds": 2536
+        "seconds": 2520
       },
       {
         "date": "2026-10-05",
@@ -68,7 +64,7 @@
       },
       {
         "date": "2026-10-06",
-        "seconds": 5088
+        "seconds": 4920
       },
       {
         "date": "2026-10-07",
@@ -80,17 +76,56 @@
       },
       {
         "date": "2026-10-09",
-        "seconds": 2757
+        "seconds": 1794
       },
       {
         "date": "2026-10-10",
-        "seconds": 1417
+        "seconds": 1613
+      },
+      {
+        "date": "2026-10-11",
+        "seconds": 515
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-10-10T10:36:29Z",
+    "fetched_at": "2026-10-11T10:49:23Z",
     "items": [
+      {
+        "verb": "opened",
+        "num": "#3194",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-11T09:58:44Z"
+      },
+      {
+        "verb": "opened",
+        "num": "#164",
+        "repo": "nodiscc/hecat",
+        "url": "https://github.com/nodiscc/hecat/issues/164",
+        "when": "2026-10-11T08:56:10Z"
+      },
+      {
+        "verb": "opened",
+        "num": "#3193",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-11T08:46:36Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3192",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-11T07:00:49Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3190",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-10T18:45:26Z"
+      },
       {
         "verb": "opened",
         "num": "#3188",
@@ -125,46 +160,11 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/2215",
         "when": "2026-10-10T09:48:14Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3051",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3051",
-        "when": "2026-10-10T09:23:42Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3185",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-10T09:23:03Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3179",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3179",
-        "when": "2026-10-09T09:26:58Z"
-      },
-      {
-        "verb": "approved",
-        "num": "#3168",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3168#pullrequestreview-5433244702",
-        "when": "2026-10-06T18:58:03Z"
-      },
-      {
-        "verb": "approved",
-        "num": "#3146",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3146#pullrequestreview-5433243226",
-        "when": "2026-10-06T18:57:54Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-10-10T10:36:29Z",
+    "fetched_at": "2026-10-11T10:49:23Z",
     "series_tracked": 306,
     "chapters_read": 19153,
     "volumes_read": 23,
@@ -191,7 +191,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-10-10T10:36:29Z",
+    "fetched_at": "2026-10-11T10:49:23Z",
     "owned_games": 515,
     "recent": [
       {
