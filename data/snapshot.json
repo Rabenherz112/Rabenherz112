@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-10-21T09:21:56Z",
+  "generated_at": "2026-10-22T09:24:31Z",
   "languages": {
-    "fetched_at": "2026-10-21T09:21:59Z",
+    "fetched_at": "2026-10-22T09:24:33Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 27.19
+        "pct": 27.07
       },
       {
         "name": "Python",
-        "pct": 16.52
+        "pct": 16.81
       },
       {
         "name": "Markdown",
-        "pct": 15.14
+        "pct": 15.29
       },
       {
         "name": "Powershell",
-        "pct": 7.56
+        "pct": 7.76
       },
       {
         "name": "Javascript",
-        "pct": 4.97
+        "pct": 4.67
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-10-21T09:21:58Z",
-    "total_seconds": 74159,
+    "fetched_at": "2026-10-22T09:24:33Z",
+    "total_seconds": 70728,
     "projects": 17,
     "days": [
-      {
-        "date": "2026-10-08",
-        "seconds": 8576
-      },
       {
         "date": "2026-10-09",
         "seconds": 1794
@@ -68,7 +64,7 @@
       },
       {
         "date": "2026-10-17",
-        "seconds": 1461
+        "seconds": 974
       },
       {
         "date": "2026-10-18",
@@ -80,17 +76,28 @@
       },
       {
         "date": "2026-10-20",
-        "seconds": 65
+        "seconds": 141
       },
       {
         "date": "2026-10-21",
+        "seconds": 5556
+      },
+      {
+        "date": "2026-10-22",
         "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-10-21T09:21:57Z",
+    "fetched_at": "2026-10-22T09:24:32Z",
     "items": [
+      {
+        "verb": "approved",
+        "num": "#86",
+        "repo": "awesome-foss/awesome-sysadmin-data",
+        "url": "https://github.com/awesome-foss/awesome-sysadmin-data/pull/86#pullrequestreview-5597954579",
+        "when": "2026-10-21T09:56:25Z"
+      },
       {
         "verb": "opened",
         "num": "#3221",
@@ -150,7 +157,7 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-10-21T09:21:57Z",
+    "fetched_at": "2026-10-22T09:24:32Z",
     "series_tracked": 311,
     "chapters_read": 19087,
     "volumes_read": 23,
@@ -177,12 +184,12 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-10-21T09:21:57Z",
-    "owned_games": 515,
+    "fetched_at": "2026-10-22T09:24:32Z",
+    "owned_games": 516,
     "recent": [
       {
         "name": "Overwatch®",
-        "two_week_minutes": 298,
+        "two_week_minutes": 388,
         "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIAwL/xAAtEAABAwIEBAQHAQAAAAAAAAABAgMEBREGBxIhADFBgQgTUXEUIjJhYoKhcv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACBBEDIUGBwf/aAAwDAQACEQMRAD8An/BOEJFf1y3kuNUplxLb0gIJSlSr6QTyF7Eb9eGs1T8L4eSGPIbW8n6hp1q79OGpR2I+BPDKhTDDS5NRYGrWgKC1vGwJB52Rv7jhSZd4bViSryw4kmLBiPTHz/lJ0jurT2vxPniGQRbyGjg1fqrjTWxmmsYc49O68+rdyn4XxCkseQ0h4/SNOhXbpwqca4QkUDTLZS47SnnFNsyCghKlJtqAPI2uBt14Z+YmG1Ycq8TykkRZ0NmYwfTUkah2Vftbht1diPjvwyrU+w0iTTmDp0ICQlbJtcAcro39zwwRDHJp5LTw7r1JM0SWi8Ya4dGr8+ozBjCM0fD3BpsGQ03OjhDN1nZtbagRe29ig/37cDYuqlCymwe/hehJRMr05kplPKG4CkkFa7ctidKOnM/lN2TOaVRy4rKnWR8RTX7CRGUbBQ9R6Eb2P3PO5BpRWIsoMyUpnVF5mHUlAeYpxSmHP2UPlV3ufbisFRELjCFUoWbOEGcL15KIdegshMV5I3ISmwWi/PYDUjrzH4k4yYRld4e51NnSGnJ0gLZug7OLcUSbX3sED+ffjFGIsoMtkqnU55mbUUg+WptSn3P1UflT2sffib85szp2Y9RTJecTHgsLKI8FNzoTz1E2sSevXbkBbgSgC//Z",
         "icon_mime": "image/jpeg"
       },
