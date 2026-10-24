@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-10-23T09:20:33Z",
+  "generated_at": "2026-10-24T08:52:32Z",
   "languages": {
-    "fetched_at": "2026-10-23T09:20:35Z",
+    "fetched_at": "2026-10-24T08:52:34Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 27.09
+        "pct": 26.68
       },
       {
         "name": "Python",
-        "pct": 16.55
+        "pct": 16.96
       },
       {
         "name": "Markdown",
-        "pct": 15.22
+        "pct": 15.91
       },
       {
         "name": "Powershell",
-        "pct": 7.53
+        "pct": 7.47
       },
       {
         "name": "Javascript",
-        "pct": 4.95
+        "pct": 4.68
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-10-23T09:20:35Z",
-    "total_seconds": 69421,
-    "projects": 17,
+    "fetched_at": "2026-10-24T08:52:34Z",
+    "total_seconds": 86671,
+    "projects": 18,
     "days": [
-      {
-        "date": "2026-10-10",
-        "seconds": 1613
-      },
       {
         "date": "2026-10-11",
         "seconds": 515
@@ -60,7 +56,7 @@
       },
       {
         "date": "2026-10-17",
-        "seconds": 1461
+        "seconds": 974
       },
       {
         "date": "2026-10-18",
@@ -84,19 +80,37 @@
       },
       {
         "date": "2026-10-23",
+        "seconds": 19350
+      },
+      {
+        "date": "2026-10-24",
         "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-10-23T09:20:34Z",
+    "fetched_at": "2026-10-24T08:52:33Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3243",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3243",
+        "when": "2026-10-23T09:21:17Z"
+      },
       {
         "verb": "closed",
         "num": "#3242",
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-10-23T07:13:04Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3239",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-22T23:04:23Z"
       },
       {
         "verb": "approved",
@@ -146,18 +160,11 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-10-18T10:46:54Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3223",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-18T08:35:23Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-10-23T09:20:34Z",
+    "fetched_at": "2026-10-24T08:52:33Z",
     "series_tracked": 316,
     "chapters_read": 19214,
     "volumes_read": 23,
@@ -165,7 +172,7 @@
     "reading": [
       {
         "title": "Shut up, Evil Dragon, I Don't Want to Raise A Child with You Anymore",
-        "meta": "ch. 17",
+        "meta": "ch. 67",
         "cover": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAB9AGQDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQYEBwADCAIB/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgMBBAUABv/aAAwDAQACEAMQAAAB6NgFADB5/BJz5LOiXCs7TEJGR4QTtiQ18uYQZ2IYQMIYQExc4PBIB5h+hYAvCL5llmc82fzmpjAfrBkHaumBXDkNaz825Z8/LAGBZcZgz4gMTYhOObz9KdKKCbCOn2QIsMqFqX2uh6+6s5oxmX1v9+E2ePjxJtQcw8DAeSfei3rBAqSNUpZWEKYdADrBMtjItXGUrt3PySNxtdBxxVL0kL2RMDQxrq3IjbS15mOidIXFturIOMz1p+WhANrd7yCTmFUsWr6ujIkT/FW6gQ7GE3oE755QWsWWFh4ItcKEDqV7P1PRMp5J0rlT0lnQvS9POqRJ88ZVyU3ZmfceKmFi+pIGZMLu8miE+gWt08L0PKNc0Riqpeji0gvjlSJ8W9OYv4/F/8QAKhAAAgMAAQMDAwMFAAAAAAAAAwQBAgUGABITERQhBxUjJDEyEBYiJTT/2gAIAQEAAQUCJP6hlqF1dv6gNFnL5too3zXp1lgKVD/VikRWCD6YGMvXzNq1+Kji994H+sSp6O/2zKzv07mn2aPXr56YdEpDOssJZPSuZT7mGlJtV6gK9tPPWCHJB+lOML5b7Q7nHjUHi1BpCL139teW6XutRSxfHDJrGRi9QrMfa96wZvJl+0l5mnSwZ6fFFR2nqY9Y5HqXVxXHYHYO+wPoel/gryF4JLaA99fNdgyB7fJZglF6R42aUIQ3Z3itM9aud7jGS41VtoOasCuzlDXob8XWVWoVRaqWcu1/Dt7gKf8AG6rLFKKWPWgZ966GDCMGiqkdzEMLWKpP45EAaGBrdxHbR3dQnHhvWK0vaIoSfBe8zYqBPIib0IR3SFnprm9+jvUvU+xN3OrLWms9V/iafSrG2XQfd5Xl53XFHq8n0NnbTxlsDNuNLkPFT7fXF86cxPkaE+7a8qkK8TkgJ/eP25+7VTjX3E/g4nxUnKm8TFQ4/W2IuNnlLjObmcd27LkTesZ9nzGWeRE2aKRXq+/MSoUpQ8kubmm+t9M80ZQ5imb1/DqgvnllJYwcsFo0lb1rVZ0Oh004BfZFXzUOP502apZHpCvFMLV95mH9BU8wqSLQNK9vKaA8dMme+ToaFsRWoiaKpL34v5F8gwfj6g7NsnF0kKfasXLgTTqq6y7/AG9FPQewpbxdPTeipdWLKYq8BW1TVu4vStQnF8cv4uLkSey1YxkxlsnsaBJEbXq/y8j8TasCDRrQpeI01xUvp93Q5du3WPSGaMDcoaoSbq1GGVx0XV5zAhRxRZULi3szdI/qCbUkT6y8qip1F5+1WVsqHFOzp5jx6RteMDbQc6hNLY2aDo9uV03gXX0ltYi/ceKr30WS6PRm6HUHsrkarqjvoYt6ey00635KGvi5Hq/hIdIegFXiySVQcZAJumWGaP3pnJ+27uI8gxQJO7E2R64lW07fG/U+d//EACgRAAIBAwMDAwUBAAAAAAAAAAECAAMEERASMQUTIUFCYRQVIjLwof/aAAgBAwEBPwGBC3Gu0wjWk7fqI6j0ltRes21OZ9puPbgy66fWtly/ExDF5hPrLa5NANt5PiW1ata1VqZnV6o+mwPdKXQ0emGZjk/GiqWOBHXaOYqg+WlQ7yEEur1h2W9Vg6zgYzpnbMTJLYAhYAztVKx/EZM4gigOvmWdMO+5o+wjO2JTUjIWLtpVT2h/f3+yrVDuWK86KcDEoIEo9wfMDcymUVNxlxUVPAhGDjQGNdouAnAiXmzwBBdb/GJWpIafd0//xAAkEQACAgEEAgEFAAAAAAAAAAAAAQIREAMSIUEiMSMTMlFhcf/aAAgBAgEBPwGy0hvrFieESURK8OX5FItkcdHY3DU8SKpm/H9Iy/Q2+iC2rcKKkz6YyNJcj8iq7Nuo+OhVBUsPk9GtqUtq7Ib5Pcb5VVjbl7zPqiauXOGyHyesqN8kdOT+4eiPTo05OHxoo//EADgQAAIBAgQEBAMFBwUAAAAAAAECAwARBBIhMRMiQVEyYXGBI0KxBRAUkaEkM1LB0eHwcoKistL/2gAIAQEABj8CbyWgznpepYsE5hUHx6E0vHkbFIdWV+vvUUsSMglFwGI29q/ibv8AfmFatV11aiW+6S/pU6ouZ+GRe+1RKQHVnswHa9cVo3/BrGXZpbGsiF+VzfNt7Uuu9Dm61eWcJr1ppBKJQ3hCneo5Lrn4hDL5VmNF4SG9KsafWmVr7HTzpXgF0yjkbWzdxRTLlS12L/T1phDHo5udajGbIb7NVydjXDDcqKNO5okLeMd6SUy3vtbSlVo9T71wxpFNup7/AOfWrjSnKm3W1OTvWa12NIdzerV51DOuocajzppHOaR96svg7VnjCgn9KzcfNY+F0Fq4zIqzJdXUnyvUDtbMyA8g0ot02onzoMKtKcqAXuKIU3XuaN9LGkgb+H+9O04zRxLmPn5VkeCJltYXWuLAOGL6qNqXKPWp5S37z4f5b/W1QQvKsdkFge1OPehbQd6T1rl8Qp2XlKGzKagX5JT9KsfD1o5rJd+dvIVeJOIF7m16kSRebYga1rraoM4DS4omSx6Dp+lqbm41gFzE+VNego96AGgFWzZb9e1XeQSX1GX5vWmFgSD3qJm/h1p1NrR6G5tanxEjARR20XrWdSPi3f0sKUAWaTb87VaMXRAEVR26UnLay2NGhVztROEeMYFNHkfXN6CiDPxH7Ri5qeOOOSCGNc2ZrE+lfh1a8gGiLTNIVErnOOI1M3EVMh1LGy+1fhZmzZb6oelYedDdF09OtIXuucBl06GlaXEsjnXKq7UfuxQ43BZxlHn5U2H4zcA/LTLxOBhIdZJT9BWIjwM7O81sxk307UsqcWaTjZ2aVrnSvgpYyNkWS/Sp8PPnePxK2+tOqAhcn8xUmdcsZU6t36V9kZyQGCr+VeNfzo2wzab3oNLHwiflvenw8T8LA4U2MzeFfOgJcVPL6WUGmTAoUh8ze9Lc3DUczFc3zUcNKF5DmjYdKyTBWLXas9gGbc1MAfhKOa/WonbDiFQy/ETag8fMjagipfWT/sKmlZsoWPcelYSHNkM2adumc/LShtcQgyn+RoAVnxAkOG6cPq/asNHcBZWyxtY6nasThJI2xMakqkgHnb61+LnMZWMAjm3JWs4lCxHwgkjTT/0KWCItLJK2XMdqmw4mVIySwlmuo9f0pIzaYBjlcDcVJ/v+opUjy8Sbl5u3+Gvs+664XhrYf6bU2Ia2YC1M83xJbaC+1YHDlhGixGeRm2XMaw8ESiPC4WDjshGo+b+lRKXTOFBkza2AUu/6vUshKx5pEdgUDDmG3stfs6q+GSIoW4BOvQG/TYVJjeAOO3JhkUnVjv7ChgYYiY4siYiQjdV+UeV6UKLC1N71Cxbhzwaoe46ioy2iDpWqgX5z6VwsOpclgjP8qX71JwpM2EiOVbag2FhWKQkNLiCI5JSBm16Dy2qSFbANq2Q8z+Wu9FZXXxZ81tCbf0qTDRSS+Ml1zBVYdFv7mouI9stsqIbBfSsGMVi2YSOL4YtqB5/dBF+JJWS+6jpTLPjEJ+UPYUiwMrK29joO9NI+zD9KiRb3ZibXriY5zHGRqDpcWvUNhxsU2GJCqmpcmyrv0WppIo3zM5hhQsAUO5bbpQjUcNeHoSbBj3I6VheLJAvHh4sjyLfhqe3mR9awswypM2IYZ8vMw02PSuLhv3wF7+dQYl5ijSLfKFFYFCeazVi4yitIltfas7M6hRqL2AFF2OVBsK4smGMj5rBQ3SsVI/xcS3Chw8UrajX+QrHiMI85kTDQBF5kRRYm/nWHaPDvlhQIco3fqfL+1YZ+AcqLaSBm5d+nXWnaGBDNw/DfRFHLavs7ChrpCrJmt4n0JNYbArzSz6m2yp3qw5QGOlfZbXOx/wCOtYog6ZVuO97U4XTNvREwzX/SlyqWmzZjK258qklznmNwttqYEdvasRh+EsomyjMem+tSLcZYnDDTrf8AvXBhuEyBubXWoXXKXz3DW8JpZ2kLtI/C17UWbfORpX//xAAmEAEAAgICAQQDAAMBAAAAAAABABEhMUFRcWGBkbGhwfAQ4fHR/9oACAEBAAE/IakVq2olmjmlVpVfgtFS/wC+yyPyILXLwnZUhCx93+v83gqth/iFfhoHDhmI8mKTtXSBjeV1BX/dQixHMbIJDoBS8/I455mE9KQcrLeHTE9vbEGuTNNR79LZqBIz/rMIwAcufx/qJCUQOfdqojUjfcwj9pzNVA8IB2ucuhL+Fx6ZZVBWwDvBOfpKbgKVd9y6NBgMxAhC1XglhYxjkyv5qFy0qqviV0NTDlkBry4lzInJyuNnS1wOld3UO6w8VUYPNlufiKKttVENuDzqXOsVvj+YGzmP6aIVR5KdKzTzLwAtdscxesEfMmOcnicQQTrMvzQP5l91aSywfA/L1KVyCzjxc6UN/uYE0tuUMxxHi3OYuP8AcI6FDMGZQ56hHtux4a/YI3tIdX49zKy5QGLD42svTBTKvC7e5sCSvQFXlp4LMwe8q6UP4gejr+yX4ArCafSPzCCuA9X++4L6R2Ec+q4o4yz+ICOw+z1hTiWSh9T5mE6rMAPrBAGw05rNHUYwC5MkeBKruaX8bY9wvcwyDOS+YIGlxK1D8z/2E/oARGhcZ9M3BXv8Wb1aXUaHgPxGWl4ZXrEsm8zmHJ9s9d2As1ggJir1xSj0lN6AO7/ZKFXRclD8XAQtDJefibec/EhXlDKsKXmet6s/OswHsH8i0Q5zm2Q0U4vPxKzMyrTPPqxvMchS5/nnM3Zi9d62v2IuJZlcuAaZ4egj8zCBLBbCx3DDHYFW4n5E1REUZTdnTyX7XCkBQ0ltggy16DvD4jepLzkq1By4lPfNftq62EOLn0hVsvpqEmijDVbGvmKhLWys2H0yyW80NW/t+JqZDOKBX3MBbGdynIYpp+4TbSGqHMpEd1L9VwEoEblH2yS7ztZ0zbmUumax6zqCifWi4v1l+sNcqFgWiCt1YXg/tTRnHV/BCxmo9Q9em/mIMeutgZoPb4iLglthJe/clXz6ladoFQs3lv6Q2NYd5vXhf0whVtUBthmHkuPW8Mxc3FLLLcdwUWahm1y+qys/RwskM1o/UqKVdMc6rr5YcPy2+muA3MKRoli8jlVVCS2qgWXi+JWtf9Sts2UXSnHMJosZSK5ftYN+Eel/35mT+dWGMNSrCsLb80FHNyviUKgO+zLLOoiZENXDQW9R6KW7xV5KLU9powAJmNAhQ3cekb7ukgLKr1OXzA/Jd2gdFme1hmaVBLS7IeavBsarT1rfEqOa44LgGldA29V64lyI80KrUxHSJD6twl58XKd7hU8K8LdEfAXKlHazwxgybjLZdUGHLTdBjDd1A28ZtBs79oV1mgkRoA8RYuzLxU6PDBMNEGBRrbOXExrDeUOf2e0S7gon+H3ElMIPpGXxG0P5hVWbdr2HOaASVrfssG25jrbxCsogJi0GAN1uW/8AGQcKNnddJq4EpYa1ODWaFL4TDLPlKAWyRuKhp5eV2HPNwo6NQwekB5l15KPqJRjVGS7fcwLGGjZcHcMThyA8KON8Fdwzb6Q35IXoK94h3AXDl0WMPLKD/rLeuQ2syixdQ81O7nejKrd3DaAtKhgC7rEU7lyrGXoq14jK3RNFt/R6xVEBA46lGC8R7H3LkrNwYEYNy37JXmZjz4xsJXbFfDR7QzVoUUVcTDR0oqNUcpSwoPWNmCjs1VywJ94ZmUl9xZKNBkp9DDepZSsrr+1Ep+OaxP/aAAwDAQACAAMAAAAQamyAnQxj/o3frPYcNxqtNr8fWafwsM5/O6BOUGGCMM4RdW8h8D6tdTeD/8QAJBEBAAIBAwMFAQEAAAAAAAAAAQARITFBUWGBsRBxkaHh8PH/2gAIAQMBAT8QC4bcBUC9JdkIutSoqS7ZiKcMwSFqKoZHDp819XKdi8WN09dIi9ZqjoMMbbQp09Hi0z/b1Cy6XJepvr9SkXUfWYa0Ap1SiVpgkpXcjAlEVDviEACF1sN1XYDzCLw/nockyrrKqiVUxfZx+xz4hdBdxFUkFsSaam1j8Wz6O8FSbS66K8bhXJmNBq4WnBR56OdIzMVatYSrddrAN7HsPy0vz6ZxKB2IK32HxHChQVd4FMD7Ys4Os5AaB08V83pmLBZVPbbHHOMxkWpBpuCNxgKaGXm8cHmCMj3elf3eOh1C9L37w1sBo5bf97S5/8QAIBEBAAMAAgEFAQAAAAAAAAAAAQARITFBEFFhcYGRsf/aAAgBAgEBPxChHKxrp4AG+C4R0l62Dpi07ANglyexMEeW4VYIA2YI02pivUasVOJYFxcqoPWA3lL5/cYVwxFwIbD2HctbZj2V7g+1Y19fY39lc1hlv7PuCwEtdxh+R8e0QFkDsgylAoq4KIkQkKH0QoqddwuuB46yFwRe1rFTGdR0yfsl/wBjuf/EACQQAQEAAgICAwADAQEBAAAAAAERACExQVFhcYGRobHB0fDx/9oACAEBAAE/ECCDCl5JP7uCUAY6JsD7lxPrhcIxdMd7260nLr46pvGEUl5U9OJ/4uw0Qn3dcDj5PJ0vp1/fvJkuIt7BkI4Q0D2VxN0akXfgcq/uRs3wGXgheRxNS1qanBfU/M5MMZtVe1BiFqfIi5NVHF2UJW9G8b/WAGgQgANFCcIxqcjmHgBZCoo3cTCU7iaOr6xDbFenFfXrCRIDYHbmS+d+scMuyUAteh2smad0JiZ1L0B+Xbjwn15R7obxOw4iZ0vkuAjXYh1DBcCKInJ3xcMmU3lelnRrnofOaziFFQn3nbhNSvy3OXsewrGAG7MMQQxIu/CpR1jQKq1K4NL8XjH3cchsa+s3esH2Mi5ZFdAZaPk9gc/6/wDsxZ6gktYdrSV49ZZp1WLCN5VNbNSeHK34xo4oug4HYe2ctCLUPxmtEK7W/wBrr1huWCCDwvP1+YgLzfCu3/3TjYHz90469PE7wWqLi5oHFjqBKWMWwDREZb9ZQsku/wDkeOsAaB21TvrDIPCFwc6xbXv81kdvMQtz+ADAkBDlhmdRg41wOk742MoZuZ84BcaJarb9Cf3gDUQls+/WDKDAg5Uq/wBH0+cKMZbgAPfGmLcN4hPCis/cOTCrqAI/duVsVk3r31DfC4bgBsAw3rWfF8ZYoEeNVTy8xbz94rGjYJEPF7PeOWkDO15ZskKcSunQkevJzR01aOD6azU2tU53zft/fGBq4lwXs+e8XYG097ZI5YXhCg/MQ9g7xGIhjteB3065+cHJ3+LYfShG+s2qNHCESJ4v5c6litg1VwHbzXOSjRuOOl010Lo9YCiC3pKD2cthvDbZO413vNB0bXKDQI59+DKuGgtAERCg7c4UVQ2cjvZnfbxNs266aB8YO2LgAmPPlVIP9AHymLzxQAq4HSX47NJULONQxg0bMUsmrBaVfrASGXCkNC18nt0Y1fByrMQVjKlQeMgxMNUahyipHfGaxoFKXT6L94A64hSIDqNL28OQUMFWbW/L+M/hP9wQ/TIQWoQANrkfXJ5CwFS0R3FTFGBqxJ0j8FMY890oiAkLteX0xARY0Eo4Tfnl8VLUFNegCs2VbVbEzh8RiRJAtHb2bbZCcxh8UrGCpJ4xj9qNWxP/ADZ7zrm8dlKLo/adYXoGkBaryXc1c2D0wQ/RlzMr3jZb1BfDBE+KsFOtFT1xxnJ4qsLWgqldAV3BqdpXXAmDuXN56a/M/EnpKliaNECYLi0ERdlUizS6eMMyPOXt5Fpt77cfxw2DNR4UCO9vjAigVthgdadGaG+TKolQAsrj3PjCEnvLg+gUGouBeEH3jJapC1IqaF3r4xm83RoZNPIBd8bcAWGeYjQEemuHlgoKIirzfXfebyj82Ip86v74cPHKaZI6m0eFN/PGBsJVoOnhHSci6JvvRx0xDQEi7HUEwcHMyKBNc/ZwPnLPMUFwoPSnX4xNUiqc97dOZwwXjy6oomKAbRk4xMHBQHZz9Y+Vl4tYV2gbPV6yLH8J2A5QjTsMduYOqdAd4ADnQxRopQJYn8zIXAuikOLFGKD3gQqGlqIvA55PGXHMoJWMrVS8oLciwiBnY5DlLHvBlpszoVJ9VP8AthFvuOsspBg7KLvzXlwJ4MB2WM2RxPKH+n/M1qiG3KPYnDxcH3EEoEBQgwetYmFWnZ6Dq8mEgECoytkS88v4YZVMLZwXc7kQDnGunIy6sUqYlVw/8Pzd4Nh2im2R0U6DsrnORrZHOLGwXKqkqMxzHQVYKqEAKOUNSFMiPAyIITga5QcGy1qCgazTX/Yj/mQS9+2HhgINouyma6bziAjO3247upioBAhXFN/OLhNkvhbAb5T8uSEJcIpBSaUTZ8gfp8JFk0hKcAGmbEpK9jtKKt7VrYFdhggjDZgDoBRpi+tFSmwGBw20kOMVmiUjrygTlu2rcbA22yJpBfYa1zDPgAGDluEksSdifzgrE6DuJgVX9HlyjPPKLFLwAz0M4DR6cNA9tfieMAg69YNxvY+ZigHUNnAFKQDal2YBCdowGiEG1kcWDbgmrgA3Om+eIiwsRSXTHSaolOA9rB0Y1gzoOCg4Qw/AE1Qi4lraJkHLTJtG1EO+djzjYRcK2Tfkv1MK/dF3LH2oyc7d3VAfBWveAdkKlaQNqCr2eMEcO2HoA8vjCqa2tiQG7daVfWARU30wgMnlNe84nyFl8wFFKB5wKGhgtPJgYwECCJkodDKA4aHDaVxgIsaVZq0+VrosjWgmh8nJdnfsxZfiAC33EO46yodsQFEHqJixXWmuX6sPoxiOmW0p+JT7MkK3TsBD4qv54y3ERcuwW8O3fdxGMUakMiDKUVrepAUbJyDaoGvcMHogqSh6fvEHxs3gxSJ1LhmNzK67tkUAODHPE4fZ7hBdze1jEA5U69mUkbeI8NtGaqYpoQTvUSGuHOWP6IbAy8sz/9k=",
         "cover_mime": "image/jpeg"
       },
@@ -184,7 +191,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-10-23T09:20:34Z",
+    "fetched_at": "2026-10-24T08:52:33Z",
     "owned_games": 516,
     "recent": [
       {
