@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-10-24T08:52:32Z",
+  "generated_at": "2026-10-25T09:09:10Z",
   "languages": {
-    "fetched_at": "2026-10-24T08:52:34Z",
+    "fetched_at": "2026-10-25T09:09:12Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 26.68
-      },
-      {
-        "name": "Python",
-        "pct": 16.96
+        "pct": 25.53
       },
       {
         "name": "Markdown",
-        "pct": 15.91
+        "pct": 18.61
+      },
+      {
+        "name": "Python",
+        "pct": 15.81
       },
       {
         "name": "Powershell",
-        "pct": 7.47
+        "pct": 7.07
       },
       {
         "name": "Javascript",
-        "pct": 4.68
+        "pct": 4.87
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-10-24T08:52:34Z",
-    "total_seconds": 86671,
+    "fetched_at": "2026-10-25T09:09:12Z",
+    "total_seconds": 120504,
     "projects": 18,
     "days": [
-      {
-        "date": "2026-10-11",
-        "seconds": 515
-      },
       {
         "date": "2026-10-12",
         "seconds": 1799
@@ -80,16 +76,20 @@
       },
       {
         "date": "2026-10-23",
-        "seconds": 19350
+        "seconds": 20326
       },
       {
         "date": "2026-10-24",
+        "seconds": 33372
+      },
+      {
+        "date": "2026-10-25",
         "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-10-24T08:52:33Z",
+    "fetched_at": "2026-10-25T09:09:11Z",
     "items": [
       {
         "verb": "closed",
@@ -139,32 +139,11 @@
         "repo": "Rabenherz112/aswg",
         "url": "",
         "when": "2026-10-18T12:29:58Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3226",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-18T12:01:41Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3225",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-18T10:53:50Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3224",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-18T10:46:54Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-10-24T08:52:33Z",
+    "fetched_at": "2026-10-25T09:09:10Z",
     "series_tracked": 316,
     "chapters_read": 19214,
     "volumes_read": 23,
@@ -191,12 +170,12 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-10-24T08:52:33Z",
+    "fetched_at": "2026-10-25T09:09:11Z",
     "owned_games": 516,
     "recent": [
       {
         "name": "Overwatch®",
-        "two_week_minutes": 431,
+        "two_week_minutes": 468,
         "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIAwL/xAAtEAABAwIEBAQHAQAAAAAAAAABAgMEBREGBxIhADFBgQgTUXEUIjJhYoKhcv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACBBEDIUGBwf/aAAwDAQACEQMRAD8An/BOEJFf1y3kuNUplxLb0gIJSlSr6QTyF7Eb9eGs1T8L4eSGPIbW8n6hp1q79OGpR2I+BPDKhTDDS5NRYGrWgKC1vGwJB52Rv7jhSZd4bViSryw4kmLBiPTHz/lJ0jurT2vxPniGQRbyGjg1fqrjTWxmmsYc49O68+rdyn4XxCkseQ0h4/SNOhXbpwqca4QkUDTLZS47SnnFNsyCghKlJtqAPI2uBt14Z+YmG1Ycq8TykkRZ0NmYwfTUkah2Vftbht1diPjvwyrU+w0iTTmDp0ICQlbJtcAcro39zwwRDHJp5LTw7r1JM0SWi8Ya4dGr8+ozBjCM0fD3BpsGQ03OjhDN1nZtbagRe29ig/37cDYuqlCymwe/hehJRMr05kplPKG4CkkFa7ctidKOnM/lN2TOaVRy4rKnWR8RTX7CRGUbBQ9R6Eb2P3PO5BpRWIsoMyUpnVF5mHUlAeYpxSmHP2UPlV3ufbisFRELjCFUoWbOEGcL15KIdegshMV5I3ISmwWi/PYDUjrzH4k4yYRld4e51NnSGnJ0gLZug7OLcUSbX3sED+ffjFGIsoMtkqnU55mbUUg+WptSn3P1UflT2sffib85szp2Y9RTJecTHgsLKI8FNzoTz1E2sSevXbkBbgSgC//Z",
         "icon_mime": "image/jpeg"
       },
