@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-10-26T10:07:04Z",
+  "generated_at": "2026-10-27T09:48:38Z",
   "languages": {
-    "fetched_at": "2026-10-26T10:07:07Z",
+    "fetched_at": "2026-10-27T09:48:40Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 25.41
+        "pct": 25.68
       },
       {
         "name": "Markdown",
-        "pct": 18.91
+        "pct": 17.7
       },
       {
         "name": "Python",
-        "pct": 15.76
+        "pct": 16.14
       },
       {
         "name": "Powershell",
-        "pct": 7.03
+        "pct": 7.14
       },
       {
         "name": "Javascript",
-        "pct": 4.87
+        "pct": 4.93
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-10-26T10:07:06Z",
-    "total_seconds": 120357,
-    "projects": 19,
+    "fetched_at": "2026-10-27T09:48:40Z",
+    "total_seconds": 114856,
+    "projects": 18,
     "days": [
-      {
-        "date": "2026-10-13",
-        "seconds": 5014
-      },
       {
         "date": "2026-10-14",
         "seconds": 452
@@ -48,7 +44,7 @@
       },
       {
         "date": "2026-10-17",
-        "seconds": 1461
+        "seconds": 974
       },
       {
         "date": "2026-10-18",
@@ -85,25 +81,43 @@
       {
         "date": "2026-10-26",
         "seconds": 0
+      },
+      {
+        "date": "2026-10-27",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-10-26T10:07:05Z",
+    "fetched_at": "2026-10-27T09:48:39Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3256",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-26T17:51:45Z"
+      },
+      {
+        "verb": "closed",
+        "num": "#3237",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-10-26T11:22:37Z"
+      },
+      {
+        "verb": "approved",
+        "num": "#3252",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3252#pullrequestreview-5650865976",
+        "when": "2026-10-26T10:51:12Z"
+      },
       {
         "verb": "closed",
         "num": "#3253",
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-10-26T09:44:47Z"
-      },
-      {
-        "verb": "changes",
-        "num": "#3252",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/3252#pullrequestreview-5645218103",
-        "when": "2026-10-25T20:49:43Z"
       },
       {
         "verb": "opened",
@@ -141,30 +155,16 @@
         "when": "2026-10-22T23:04:23Z"
       },
       {
-        "verb": "approved",
-        "num": "#86",
-        "repo": "awesome-foss/awesome-sysadmin-data",
-        "url": "https://github.com/awesome-foss/awesome-sysadmin-data/pull/86#pullrequestreview-5597954579",
-        "when": "2026-10-21T09:56:25Z"
-      },
-      {
-        "verb": "opened",
-        "num": "#3221",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-20T09:50:49Z"
-      },
-      {
         "verb": "closed",
-        "num": "#3231",
+        "num": "#3234",
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
-        "when": "2026-10-19T11:21:41Z"
+        "when": "2026-10-22T13:11:14Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-10-26T10:07:05Z",
+    "fetched_at": "2026-10-27T09:48:38Z",
     "series_tracked": 317,
     "chapters_read": 19253,
     "volumes_read": 23,
@@ -191,8 +191,8 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-10-26T10:07:05Z",
-    "owned_games": 516,
+    "fetched_at": "2026-10-27T09:48:39Z",
+    "owned_games": 517,
     "recent": [
       {
         "name": "Overwatch®",
@@ -202,7 +202,7 @@
       },
       {
         "name": "Chained Beasts",
-        "two_week_minutes": 135
+        "two_week_minutes": 270
       },
       {
         "name": "Transport Fever 3",
