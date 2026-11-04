@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-11-03T11:55:21Z",
+  "generated_at": "2026-11-04T12:07:52Z",
   "languages": {
-    "fetched_at": "2026-11-03T11:55:23Z",
+    "fetched_at": "2026-11-04T12:07:54Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 24.93
+        "pct": 24.62
       },
       {
         "name": "Markdown",
-        "pct": 18.89
+        "pct": 19.09
       },
       {
         "name": "Python",
-        "pct": 16.17
+        "pct": 16.23
       },
       {
         "name": "Powershell",
-        "pct": 7.24
+        "pct": 7.2
       },
       {
         "name": "Javascript",
-        "pct": 4.94
+        "pct": 5.03
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-03T11:55:23Z",
-    "total_seconds": 167722,
+    "fetched_at": "2026-11-04T12:07:54Z",
+    "total_seconds": 163797,
     "projects": 13,
     "days": [
-      {
-        "date": "2026-10-21",
-        "seconds": 5556
-      },
       {
         "date": "2026-10-22",
         "seconds": 22605
@@ -72,7 +68,7 @@
       },
       {
         "date": "2026-10-31",
-        "seconds": 63
+        "seconds": 72
       },
       {
         "date": "2026-11-01",
@@ -80,17 +76,28 @@
       },
       {
         "date": "2026-11-02",
-        "seconds": 6619
+        "seconds": 5004
       },
       {
         "date": "2026-11-03",
-        "seconds": 1039
+        "seconds": 4276
+      },
+      {
+        "date": "2026-11-04",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-03T11:55:22Z",
+    "fetched_at": "2026-11-04T12:07:53Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3281",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-11-02T17:01:17Z"
+      },
       {
         "verb": "closed",
         "num": "#3279",
@@ -146,27 +153,13 @@
         "repo": "awesome-foss/awesome-sysadmin-data",
         "url": "https://github.com/awesome-foss/awesome-sysadmin-data/issues/113",
         "when": "2026-10-29T08:57:29Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3256",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-26T17:51:45Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3237",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-10-26T11:22:37Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-03T11:55:22Z",
-    "series_tracked": 322,
-    "chapters_read": 19495,
+    "fetched_at": "2026-11-04T12:07:53Z",
+    "series_tracked": 325,
+    "chapters_read": 19569,
     "volumes_read": 23,
     "mean_score": 8.667,
     "reading": [
@@ -191,7 +184,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-03T11:55:22Z",
+    "fetched_at": "2026-11-04T12:07:52Z",
     "owned_games": 517,
     "recent": [
       {
