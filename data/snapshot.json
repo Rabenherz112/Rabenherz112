@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-11-05T12:19:45Z",
+  "generated_at": "2026-11-06T12:06:24Z",
   "languages": {
-    "fetched_at": "2026-11-05T12:19:48Z",
+    "fetched_at": "2026-11-06T12:06:27Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 24.5
+        "pct": 24.57
       },
       {
         "name": "Markdown",
-        "pct": 19.02
+        "pct": 19.14
       },
       {
         "name": "Python",
-        "pct": 16.23
+        "pct": 16.26
       },
       {
         "name": "Powershell",
-        "pct": 7.2
+        "pct": 6.93
       },
       {
         "name": "Javascript",
-        "pct": 5.13
+        "pct": 5.14
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-05T12:19:48Z",
-    "total_seconds": 143181,
-    "projects": 13,
+    "fetched_at": "2026-11-06T12:06:27Z",
+    "total_seconds": 111750,
+    "projects": 12,
     "days": [
-      {
-        "date": "2026-10-23",
-        "seconds": 33597
-      },
       {
         "date": "2026-10-24",
         "seconds": 33372
@@ -64,7 +60,7 @@
       },
       {
         "date": "2026-10-31",
-        "seconds": 63
+        "seconds": 72
       },
       {
         "date": "2026-11-01",
@@ -85,11 +81,15 @@
       {
         "date": "2026-11-05",
         "seconds": 0
+      },
+      {
+        "date": "2026-11-06",
+        "seconds": 2157
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-05T12:19:46Z",
+    "fetched_at": "2026-11-06T12:06:25Z",
     "items": [
       {
         "verb": "closed",
@@ -164,9 +164,9 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-05T12:19:47Z",
-    "series_tracked": 325,
-    "chapters_read": 19569,
+    "fetched_at": "2026-11-06T12:06:25Z",
+    "series_tracked": 326,
+    "chapters_read": 19621,
     "volumes_read": 23,
     "mean_score": 8.667,
     "reading": [
@@ -191,7 +191,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-05T12:19:46Z",
+    "fetched_at": "2026-11-06T12:06:24Z",
     "owned_games": 517,
     "recent": [
       {
@@ -206,7 +206,7 @@
       },
       {
         "name": "Overwatch®",
-        "two_week_minutes": 117,
+        "two_week_minutes": 74,
         "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIAwL/xAAtEAABAwIEBAQHAQAAAAAAAAABAgMEBREGBxIhADFBgQgTUXEUIjJhYoKhcv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACBBEDIUGBwf/aAAwDAQACEQMRAD8An/BOEJFf1y3kuNUplxLb0gIJSlSr6QTyF7Eb9eGs1T8L4eSGPIbW8n6hp1q79OGpR2I+BPDKhTDDS5NRYGrWgKC1vGwJB52Rv7jhSZd4bViSryw4kmLBiPTHz/lJ0jurT2vxPniGQRbyGjg1fqrjTWxmmsYc49O68+rdyn4XxCkseQ0h4/SNOhXbpwqca4QkUDTLZS47SnnFNsyCghKlJtqAPI2uBt14Z+YmG1Ycq8TykkRZ0NmYwfTUkah2Vftbht1diPjvwyrU+w0iTTmDp0ICQlbJtcAcro39zwwRDHJp5LTw7r1JM0SWi8Ya4dGr8+ozBjCM0fD3BpsGQ03OjhDN1nZtbagRe29ig/37cDYuqlCymwe/hehJRMr05kplPKG4CkkFa7ctidKOnM/lN2TOaVRy4rKnWR8RTX7CRGUbBQ9R6Eb2P3PO5BpRWIsoMyUpnVF5mHUlAeYpxSmHP2UPlV3ufbisFRELjCFUoWbOEGcL15KIdegshMV5I3ISmwWi/PYDUjrzH4k4yYRld4e51NnSGnJ0gLZug7OLcUSbX3sED+ffjFGIsoMtkqnU55mbUUg+WptSn3P1UflT2sffib85szp2Y9RTJecTHgsLKI8FNzoTz1E2sSevXbkBbgSgC//Z",
         "icon_mime": "image/jpeg"
       }
