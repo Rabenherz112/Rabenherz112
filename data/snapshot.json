@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-11-11T11:52:47Z",
+  "generated_at": "2026-11-12T12:42:31Z",
   "languages": {
-    "fetched_at": "2026-11-11T11:52:50Z",
+    "fetched_at": "2026-11-12T12:42:34Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 23.92
+        "pct": 23.55
       },
       {
         "name": "Markdown",
-        "pct": 20.17
+        "pct": 19.92
       },
       {
         "name": "Python",
-        "pct": 16.19
+        "pct": 16.58
       },
       {
         "name": "Powershell",
-        "pct": 6.68
+        "pct": 6.71
       },
       {
         "name": "Javascript",
-        "pct": 6.17
+        "pct": 6.2
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-11T11:52:50Z",
-    "total_seconds": 103641,
-    "projects": 10,
+    "fetched_at": "2026-11-12T12:42:34Z",
+    "total_seconds": 103181,
+    "projects": 9,
     "days": [
-      {
-        "date": "2026-10-29",
-        "seconds": 2902
-      },
       {
         "date": "2026-10-30",
         "seconds": 717
       },
       {
         "date": "2026-10-31",
-        "seconds": 87
+        "seconds": 96
       },
       {
         "date": "2026-11-01",
-        "seconds": 14914
+        "seconds": 17347
       },
       {
         "date": "2026-11-02",
@@ -85,11 +81,15 @@
       {
         "date": "2026-11-11",
         "seconds": 0
+      },
+      {
+        "date": "2026-11-12",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-11T11:52:48Z",
+    "fetched_at": "2026-11-12T12:42:32Z",
     "items": [
       {
         "verb": "changes",
@@ -129,7 +129,7 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-11T11:52:49Z",
+    "fetched_at": "2026-11-12T12:42:32Z",
     "series_tracked": 328,
     "chapters_read": 19644,
     "volumes_read": 23,
@@ -156,7 +156,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-11T11:52:48Z",
+    "fetched_at": "2026-11-12T12:42:32Z",
     "owned_games": 517,
     "recent": [
       {
