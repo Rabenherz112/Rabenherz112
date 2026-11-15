@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-11-14T11:27:41Z",
+  "generated_at": "2026-11-15T11:56:45Z",
   "languages": {
-    "fetched_at": "2026-11-14T11:27:45Z",
+    "fetched_at": "2026-11-15T11:56:48Z",
     "items": [
       {
         "name": "YAML",
-        "pct": 22.38
+        "pct": 21.95
       },
       {
         "name": "Markdown",
-        "pct": 21.49
+        "pct": 21.46
       },
       {
         "name": "Python",
-        "pct": 16.33
+        "pct": 16.09
       },
       {
         "name": "Powershell",
-        "pct": 7.21
+        "pct": 7.51
       },
       {
         "name": "Javascript",
-        "pct": 6.12
+        "pct": 6.26
       }
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-14T11:27:45Z",
-    "total_seconds": 209163,
-    "projects": 17,
+    "fetched_at": "2026-11-15T11:56:48Z",
+    "total_seconds": 256722,
+    "projects": 18,
     "days": [
-      {
-        "date": "2026-11-01",
-        "seconds": 17347
-      },
       {
         "date": "2026-11-02",
         "seconds": 23949
@@ -60,37 +56,55 @@
       },
       {
         "date": "2026-11-08",
-        "seconds": 16765
+        "seconds": 16565
       },
       {
         "date": "2026-11-09",
-        "seconds": 5850
+        "seconds": 10096
       },
       {
         "date": "2026-11-10",
-        "seconds": 15681
+        "seconds": 10685
       },
       {
         "date": "2026-11-11",
-        "seconds": 13907
+        "seconds": 28490
       },
       {
         "date": "2026-11-12",
-        "seconds": 13592
+        "seconds": 30216
       },
       {
         "date": "2026-11-13",
-        "seconds": 27023
+        "seconds": 52974
       },
       {
         "date": "2026-11-14",
-        "seconds": 1880
+        "seconds": 7843
+      },
+      {
+        "date": "2026-11-15",
+        "seconds": 2735
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-14T11:27:42Z",
+    "fetched_at": "2026-11-15T11:56:45Z",
     "items": [
+      {
+        "verb": "opened",
+        "num": "#168",
+        "repo": "nodiscc/hecat",
+        "url": "",
+        "when": "2026-11-15T11:06:09Z"
+      },
+      {
+        "verb": "opened",
+        "num": "#3329",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "",
+        "when": "2026-11-15T10:59:06Z"
+      },
       {
         "verb": "opened",
         "num": "#120",
@@ -118,18 +132,11 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-11-06T07:27:51Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3286",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3286",
-        "when": "2026-11-04T16:28:56Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-14T11:27:42Z",
+    "fetched_at": "2026-11-15T11:56:46Z",
     "series_tracked": 330,
     "chapters_read": 19736,
     "volumes_read": 23,
@@ -156,7 +163,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-14T11:27:42Z",
+    "fetched_at": "2026-11-15T11:56:45Z",
     "owned_games": 517,
     "recent": [
       {
