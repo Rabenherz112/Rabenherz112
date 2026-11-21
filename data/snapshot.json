@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T12:53:31Z",
+  "generated_at": "2026-11-21T12:38:31Z",
   "languages": {
-    "fetched_at": "2026-11-20T12:53:32Z",
+    "fetched_at": "2026-11-21T12:38:32Z",
     "items": [
       {
         "name": "Markdown",
@@ -26,14 +26,10 @@
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-20T12:53:32Z",
-    "total_seconds": 194560,
+    "fetched_at": "2026-11-21T12:38:32Z",
+    "total_seconds": 183917,
     "projects": 29,
     "days": [
-      {
-        "date": "2026-11-07",
-        "seconds": 10643
-      },
       {
         "date": "2026-11-08",
         "seconds": 16766
@@ -85,11 +81,15 @@
       {
         "date": "2026-11-20",
         "seconds": 0
+      },
+      {
+        "date": "2026-11-21",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-20T12:53:32Z",
+    "fetched_at": "2026-11-21T12:38:32Z",
     "items": [
       {
         "verb": "closed",
@@ -164,7 +164,7 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-20T12:53:32Z",
+    "fetched_at": "2026-11-21T12:38:31Z",
     "series_tracked": 336,
     "chapters_read": 19818,
     "volumes_read": 23,
@@ -191,7 +191,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-20T12:53:37Z",
+    "fetched_at": "2026-11-21T12:38:31Z",
     "owned_games": 517,
     "recent": [
       {
