@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T14:37:44Z",
+  "generated_at": "2026-11-24T14:51:48Z",
   "languages": {
-    "fetched_at": "2026-11-23T14:37:44Z",
+    "fetched_at": "2026-11-24T14:51:49Z",
     "items": [
       {
         "name": "Markdown",
-        "pct": 21.56
+        "pct": 21.49
       },
       {
         "name": "YAML",
-        "pct": 20.9
+        "pct": 20.93
       },
       {
         "name": "Python",
-        "pct": 18.07
+        "pct": 18.08
       },
       {
         "name": "Powershell",
-        "pct": 6.77
+        "pct": 6.78
       },
       {
         "name": "Javascript",
@@ -26,14 +26,10 @@
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-23T14:37:45Z",
-    "total_seconds": 161258,
-    "projects": 29,
+    "fetched_at": "2026-11-24T14:51:49Z",
+    "total_seconds": 143802,
+    "projects": 27,
     "days": [
-      {
-        "date": "2026-11-10",
-        "seconds": 17456
-      },
       {
         "date": "2026-11-11",
         "seconds": 16435
@@ -85,11 +81,15 @@
       {
         "date": "2026-11-23",
         "seconds": 0
+      },
+      {
+        "date": "2026-11-24",
+        "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-23T14:37:45Z",
+    "fetched_at": "2026-11-24T14:51:49Z",
     "items": [
       {
         "verb": "approved",
@@ -164,7 +164,7 @@
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-23T14:37:46Z",
+    "fetched_at": "2026-11-24T14:51:48Z",
     "series_tracked": 338,
     "chapters_read": 19809,
     "volumes_read": 23,
@@ -191,9 +191,15 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-23T14:37:44Z",
+    "fetched_at": "2026-11-24T14:51:48Z",
     "owned_games": 517,
     "recent": [
+      {
+        "name": "Chained Beasts Demo",
+        "two_week_minutes": 64,
+        "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwgFBgECB//EACwQAAIBBAIBAgQGAwAAAAAAAAECAwQFBhEHEiEAEwgxQWEUFRciI1FCcYH/xAAcAQAABwEBAAAAAAAAAAAAAAABAgMEBgcIAAX/xAAvEQABAwMDAwIEBgMAAAAAAAABAgMRBBIhAAUxBkFhIvATUYGhBxQycZGx0eHx/9oADAMBAAIRAxEAPwBdLlhN2oOOYcruFlkp8fqKn8PR1NWPbFZKTJ4p9jb6COSw8ADW+xCkUyVlIOffOtc1HVezqWnag18ZcqmIhJF3BPfsLc5gZwZzi7Av1Az+wYrBUi3NdalaX8SU7iPSsR4+/XW/Ot70fl6QKgkFR7alHU24L6d2hyso0AqFqRPAkwD9NWf4ieEv0RzgYwl0e8H8uhrJq1oBGUMskqoq/b+I/wCz5H1VeaWHG7wIz/X/AHUO6O6qqOolPs7ittKoATGFmZm0EmQLZMcEjXFosWutzNbUCnkqDR04lmliUssMHuJGGcgeP5JU/wCn+gT6dBY4HGldxb/KVLSNwcCXXTYjmCPkSAc3EK4EHExnTa8Sch8c8w8R0/EnLF5GN1OOlq3H72pWILBGpYqXO1LqO4KMAHUKVJYbDFSHEq+KyJnBGqu6hoKvpPeTW0ZlKlXCc95tUP3GPmODIOpjgH4ScrW24lymLilLBBd6K50tplpSlTPb1qUJndi+omaHs/t6chfG9nQI682hSmvBH1j76X3z8QXt521e3GnSkLCZMmbgQokDsJHBnGi/GZwpn90yjNuQbLRS3LGZ5USut0azRGBKOGD26woXQSns9WAejKqdmHYttT0rzdiWic/5nH9aiHT9bTUdYy676VIVcFCM8AJVOAnBkiSJOqNX3Xjnh7iPJ7FjmRHkLKs7tUENRXU4EMFrgb94V1VmCyANsp3YlgNhFH7jwsrClC0JPHz/ANamNKzvXXe5N1DybENkSoCAIiYnlRjgceO6yQwSww1tZWgsoi9tI+pUvvX03sbPj763/Xp0SMJTq5mWHW2qitrhIttAggmY7SSJV6RHJ9Q5GnmwPkq18r47j+ZZNleT224cS2tK+9tRwQUcNzR9uIIws57MTThWYhVddr1QttWCkFBKGwCFnHj7edZm3XbKvp9xykrGACsekmFEAGQUkHvwTGciNFrLXj3EuJZDkddyDkGR0tFaKbB6i0480BioJZ6On71VOjzBNfvjb/EiSSTsX3r0NynFAWgZuz4Jxx7GvJo2XK9TVBTtguKVg8EzEAkmIEY4ycnjSQWS+0xmp6VI39v2owGdfkrAdN68D5gH7+nq2zlXnWudg3xBRT0byIV8Nu6AYF6U2/STHMz4zoFdfIpoKaJeqrIFm7hxoouy3X++pGz9da9cls5/jRaze2nW2WkwAqFzIylOVW8XWESYkxBgkwNLLlX4MVs1TZqC70U8M1NHXXFe60yyBR7sJ7ApOjKQpIKjZ2D6XCLRE5xj321WG81Tu+JSG3CkNrUpD0+mLeCSQoEKEAAQPJGY+5WmGmkqK6hgKUtQsksMVWVd6cBCy7ZUUMeq6PgbPn0a4H0+znXn7YuoCVOPJSpakKVMABBSgmRABylJByMmeZ1n8qudrpoZEEVSsJDP0B2yIEC6G/JIU/X5n7eQuQoke8zpWnrq3by29AUBZMT+lsJAxOSoAk5GfAz/AP/Z",
+        "icon_mime": "image/jpeg"
+      },
       {
         "name": "Brotato",
         "two_week_minutes": 51,
@@ -202,7 +208,7 @@
       },
       {
         "name": "Chained Beasts",
-        "two_week_minutes": 10
+        "two_week_minutes": 16
       }
     ]
   },
