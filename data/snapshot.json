@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T13:51:20Z",
+  "generated_at": "2026-11-28T12:58:55Z",
   "languages": {
-    "fetched_at": "2026-11-27T13:51:21Z",
+    "fetched_at": "2026-11-28T12:58:55Z",
     "items": [
       {
         "name": "Markdown",
@@ -26,14 +26,10 @@
     ]
   },
   "coding": {
-    "fetched_at": "2026-11-27T13:51:21Z",
-    "total_seconds": 84632,
-    "projects": 22,
+    "fetched_at": "2026-11-28T12:58:55Z",
+    "total_seconds": 77982,
+    "projects": 21,
     "days": [
-      {
-        "date": "2026-11-14",
-        "seconds": 7808
-      },
       {
         "date": "2026-11-15",
         "seconds": 11715
@@ -80,17 +76,28 @@
       },
       {
         "date": "2026-11-26",
-        "seconds": 272
+        "seconds": 1430
       },
       {
         "date": "2026-11-27",
+        "seconds": 0
+      },
+      {
+        "date": "2026-11-28",
         "seconds": 0
       }
     ]
   },
   "activity": {
-    "fetched_at": "2026-11-27T13:51:21Z",
+    "fetched_at": "2026-11-28T12:58:55Z",
     "items": [
+      {
+        "verb": "closed",
+        "num": "#3372",
+        "repo": "awesome-selfhosted/awesome-selfhosted-data",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/3372",
+        "when": "2026-11-28T09:24:54Z"
+      },
       {
         "verb": "approved",
         "num": "#3363",
@@ -153,18 +160,11 @@
         "repo": "awesome-selfhosted/awesome-selfhosted-data",
         "url": "",
         "when": "2026-11-17T16:56:18Z"
-      },
-      {
-        "verb": "closed",
-        "num": "#3333",
-        "repo": "awesome-selfhosted/awesome-selfhosted-data",
-        "url": "",
-        "when": "2026-11-16T21:45:37Z"
       }
     ]
   },
   "anilist": {
-    "fetched_at": "2026-11-27T13:51:22Z",
+    "fetched_at": "2026-11-28T12:58:55Z",
     "series_tracked": 342,
     "chapters_read": 19890,
     "volumes_read": 23,
@@ -191,7 +191,7 @@
     ]
   },
   "steam": {
-    "fetched_at": "2026-11-27T13:51:22Z",
+    "fetched_at": "2026-11-28T12:58:55Z",
     "owned_games": 518,
     "recent": [
       {
@@ -201,14 +201,8 @@
         "icon_mime": "image/jpeg"
       },
       {
-        "name": "Brotato",
-        "two_week_minutes": 51,
-        "icon": "/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQkG/8QALRAAAQMCBgECBAcAAAAAAAAAAQIDBAUGAAcREhMhCAkxFEFRcSIjM2FigZL/xAAaAQEAAwADAAAAAAAAAAAAAAAAAwQFAQYH/8QAKhEAAQMDAgQFBQAAAAAAAAAAAQACAwQFERIhBkFxoRMxMkJhUYGRsdH/2gAMAwEAAhEDEQA/AMrWw46sIRuUonQAfM4LkAk4CKkHxzuSbEbfNTpLBUAeNchxSk/sShChr/eMR93gYcYP4/pXoUPA1ymjEmtgzy1E/ppHdRLkyYrtIgIEekSJkhB/MlRZqXm1j+LXGlY++pxPFcqaX3YPzssyr4Su1Jk+HrH1ac9vPsh5JiyqfKLEpp2M+gjc08kpUPuDjSa4OGWnIXVJIpIXFkjSCOR2K6/K2kMzVXFUZDERyLR6aqc87ORyIbTyttJ2t6jkWpx1tABIA3En26jljMg0hxHRW6KpZSPMjog8421bgfOOf32TweK/g1L8hbSqtToWYlZs1UN9tuVBl2k3DQVraS4ktlDykuDYUnXXUAjUDUawuo4X+sZ6klX4r7XwAtp36ATnDQAOwVH5TeLtxeKcu2osnM+q3TUbidUxTYMS2CsPOpKRs5OYDcStOiRqrsdYidbqY+xW4+KLvGc+MT1wlUz1tC4rbqFrVC4m4fJX6OzVoj0NSiHY7ilbCsKAKV9djsaEd4sQQNp26GeSyrjcZLnKJ5gA7GCRzRt9O3LilZ0v5zZcyVQhW7hs5xFI+Ob3p52pDTgUn8STvSoIUO+tpJCgCDZWUn/p/g1LrXj9ZreW943PlvLbtwctDhVJ+ltyp7ym3HXJahyLSQQtJTorTRI10HZFW2n4AuycqnYvkJdVTzAkx3w7SKbJrT8tNNdCnArhkkNrKHkFoqb2gAtA6k+xFnv6idzUqqZ+xqBROJum2rSI1GSxH/SZUkrWUJA6G0OJQR8ijT5YIgBl1mBcOVN7Ui7bXnu0uvUp8SIspsa7VDogg9KSoEpKT0QSD0cEWlFj+t9NZoaWbvywblVdKQDMo1RLTLh+vC4lRT/s4IhZnl6tN5ZgxpEW07catwutqbE+Y/8AEPMgj3aQAlKFD6q34IkOkyZNRnOypTrsmS+4XXXnVFS3FkklSieySeyTgi//2Q==",
-        "icon_mime": "image/jpeg"
-      },
-      {
         "name": "Chained Beasts",
-        "two_week_minutes": 16
+        "two_week_minutes": 6
       }
     ]
   },
